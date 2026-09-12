@@ -1,0 +1,3601 @@
+country,industry,company_size,year,predicted_adoption_rate
+Australia,Agriculture,Large,2026,52.88
+Australia,Agriculture,Medium,2026,61.63
+Australia,Agriculture,Small,2026,58.42
+Australia,Automotive,Large,2026,97.02
+Australia,Automotive,Medium,2026,97.58
+Australia,Automotive,Small,2026,69.86
+Australia,Education,Large,2026,96.83
+Australia,Education,Medium,2026,84.38
+Australia,Education,Small,2026,87.49
+Australia,Financial Services,Large,2026,97.0
+Australia,Financial Services,Medium,2026,92.76
+Australia,Financial Services,Small,2026,94.37
+Australia,Gaming,Large,2026,97.41
+Australia,Gaming,Medium,2026,89.75
+Australia,Gaming,Small,2026,85.91
+Australia,Government,Large,2026,78.19
+Australia,Government,Medium,2026,65.47
+Australia,Government,Small,2026,70.58
+Australia,Healthcare,Large,2026,97.37
+Australia,Healthcare,Medium,2026,80.21
+Australia,Healthcare,Small,2026,81.17
+Australia,Legal,Large,2026,81.46
+Australia,Legal,Medium,2026,83.45
+Australia,Legal,Small,2026,60.98
+Australia,Manufacturing,Large,2026,98.08
+Australia,Manufacturing,Medium,2026,92.8
+Australia,Manufacturing,Small,2026,62.51
+Australia,Media & Entertainment,Large,2026,86.06
+Australia,Media & Entertainment,Medium,2026,88.86
+Australia,Media & Entertainment,Small,2026,84.96
+Australia,Retail,Large,2026,98.6
+Australia,Retail,Medium,2026,90.29
+Australia,Retail,Small,2026,66.07
+Australia,Technology,Large,2026,97.04
+Australia,Technology,Medium,2026,97.28
+Australia,Technology,Small,2026,86.9
+Brazil,Agriculture,Large,2026,62.38
+Brazil,Agriculture,Medium,2026,49.21
+Brazil,Agriculture,Small,2026,51.14
+Brazil,Automotive,Large,2026,97.36
+Brazil,Automotive,Medium,2026,77.52
+Brazil,Automotive,Small,2026,62.04
+Brazil,Education,Large,2026,92.68
+Brazil,Education,Medium,2026,50.98
+Brazil,Education,Small,2026,77.65
+Brazil,Financial Services,Large,2026,99.17
+Brazil,Financial Services,Medium,2026,78.57
+Brazil,Financial Services,Small,2026,88.1
+Brazil,Gaming,Large,2026,94.23
+Brazil,Gaming,Medium,2026,80.62
+Brazil,Gaming,Small,2026,51.9
+Brazil,Government,Large,2026,77.2
+Brazil,Government,Medium,2026,74.73
+Brazil,Government,Small,2026,51.06
+Brazil,Healthcare,Large,2026,99.5
+Brazil,Healthcare,Medium,2026,69.58
+Brazil,Healthcare,Small,2026,84.14
+Brazil,Legal,Large,2026,80.6
+Brazil,Legal,Medium,2026,62.87
+Brazil,Legal,Small,2026,43.94
+Brazil,Manufacturing,Large,2026,89.37
+Brazil,Manufacturing,Medium,2026,78.92
+Brazil,Manufacturing,Small,2026,59.28
+Brazil,Media & Entertainment,Large,2026,96.36
+Brazil,Media & Entertainment,Medium,2026,94.93
+Brazil,Media & Entertainment,Small,2026,74.22
+Brazil,Retail,Large,2026,99.1
+Brazil,Retail,Medium,2026,79.76
+Brazil,Retail,Small,2026,74.81
+Brazil,Technology,Large,2026,96.91
+Brazil,Technology,Medium,2026,99.5
+Brazil,Technology,Small,2026,70.97
+Canada,Agriculture,Large,2026,96.08
+Canada,Agriculture,Medium,2026,79.24
+Canada,Agriculture,Small,2026,63.75
+Canada,Automotive,Large,2026,96.97
+Canada,Automotive,Medium,2026,93.53
+Canada,Automotive,Small,2026,83.49
+Canada,Education,Large,2026,98.59
+Canada,Education,Medium,2026,75.01
+Canada,Education,Small,2026,58.61
+Canada,Financial Services,Large,2026,96.99
+Canada,Financial Services,Medium,2026,91.36
+Canada,Financial Services,Small,2026,86.83
+Canada,Gaming,Large,2026,96.98
+Canada,Gaming,Medium,2026,97.02
+Canada,Gaming,Small,2026,84.41
+Canada,Government,Large,2026,84.36
+Canada,Government,Medium,2026,84.68
+Canada,Government,Small,2026,64.18
+Canada,Healthcare,Large,2026,97.0
+Canada,Healthcare,Medium,2026,97.07
+Canada,Healthcare,Small,2026,84.61
+Canada,Legal,Large,2026,89.02
+Canada,Legal,Medium,2026,74.28
+Canada,Legal,Small,2026,63.87
+Canada,Manufacturing,Large,2026,97.01
+Canada,Manufacturing,Medium,2026,99.5
+Canada,Manufacturing,Small,2026,76.48
+Canada,Media & Entertainment,Large,2026,97.06
+Canada,Media & Entertainment,Medium,2026,93.26
+Canada,Media & Entertainment,Small,2026,75.07
+Canada,Retail,Large,2026,89.74
+Canada,Retail,Medium,2026,89.04
+Canada,Retail,Small,2026,57.66
+Canada,Technology,Large,2026,97.05
+Canada,Technology,Medium,2026,97.36
+Canada,Technology,Small,2026,94.57
+China,Agriculture,Large,2026,76.66
+China,Agriculture,Medium,2026,54.58
+China,Agriculture,Small,2026,73.62
+China,Automotive,Large,2026,97.04
+China,Automotive,Medium,2026,82.62
+China,Automotive,Small,2026,84.24
+China,Education,Large,2026,99.5
+China,Education,Medium,2026,62.58
+China,Education,Small,2026,67.81
+China,Financial Services,Large,2026,97.01
+China,Financial Services,Medium,2026,87.62
+China,Financial Services,Small,2026,82.25
+China,Gaming,Large,2026,96.98
+China,Gaming,Medium,2026,97.32
+China,Gaming,Small,2026,72.18
+China,Government,Large,2026,69.61
+China,Government,Medium,2026,69.62
+China,Government,Small,2026,76.03
+China,Healthcare,Large,2026,96.96
+China,Healthcare,Medium,2026,97.91
+China,Healthcare,Small,2026,87.61
+China,Legal,Large,2026,97.66
+China,Legal,Medium,2026,85.78
+China,Legal,Small,2026,62.32
+China,Manufacturing,Large,2026,97.03
+China,Manufacturing,Medium,2026,93.02
+China,Manufacturing,Small,2026,78.97
+China,Media & Entertainment,Large,2026,97.39
+China,Media & Entertainment,Medium,2026,98.52
+China,Media & Entertainment,Small,2026,63.78
+China,Retail,Large,2026,97.34
+China,Retail,Medium,2026,90.53
+China,Retail,Small,2026,83.39
+China,Technology,Large,2026,97.02
+China,Technology,Medium,2026,96.91
+China,Technology,Small,2026,84.82
+Egypt,Agriculture,Large,2026,73.83
+Egypt,Agriculture,Medium,2026,63.01
+Egypt,Agriculture,Small,2026,69.66
+Egypt,Automotive,Large,2026,86.33
+Egypt,Automotive,Medium,2026,66.95
+Egypt,Automotive,Small,2026,74.58
+Egypt,Education,Large,2026,88.81
+Egypt,Education,Medium,2026,83.02
+Egypt,Education,Small,2026,41.94
+Egypt,Financial Services,Large,2026,76.93
+Egypt,Financial Services,Medium,2026,65.53
+Egypt,Financial Services,Small,2026,51.62
+Egypt,Gaming,Large,2026,99.5
+Egypt,Gaming,Medium,2026,97.96
+Egypt,Gaming,Small,2026,65.23
+Egypt,Government,Large,2026,52.85
+Egypt,Government,Medium,2026,51.67
+Egypt,Government,Small,2026,69.9
+Egypt,Healthcare,Large,2026,74.09
+Egypt,Healthcare,Medium,2026,86.6
+Egypt,Healthcare,Small,2026,60.82
+Egypt,Legal,Large,2026,89.19
+Egypt,Legal,Medium,2026,72.02
+Egypt,Legal,Small,2026,56.56
+Egypt,Manufacturing,Large,2026,90.73
+Egypt,Manufacturing,Medium,2026,66.34
+Egypt,Manufacturing,Small,2026,63.98
+Egypt,Media & Entertainment,Large,2026,89.21
+Egypt,Media & Entertainment,Medium,2026,71.51
+Egypt,Media & Entertainment,Small,2026,57.96
+Egypt,Retail,Large,2026,89.48
+Egypt,Retail,Medium,2026,58.91
+Egypt,Retail,Small,2026,46.23
+Egypt,Technology,Large,2026,93.68
+Egypt,Technology,Medium,2026,97.75
+Egypt,Technology,Small,2026,66.53
+France,Agriculture,Large,2026,69.39
+France,Agriculture,Medium,2026,81.55
+France,Agriculture,Small,2026,56.32
+France,Automotive,Large,2026,97.02
+France,Automotive,Medium,2026,98.89
+France,Automotive,Small,2026,79.73
+France,Education,Large,2026,94.39
+France,Education,Medium,2026,80.66
+France,Education,Small,2026,59.12
+France,Financial Services,Large,2026,96.95
+France,Financial Services,Medium,2026,79.91
+France,Financial Services,Small,2026,84.87
+France,Gaming,Large,2026,97.07
+France,Gaming,Medium,2026,92.03
+France,Gaming,Small,2026,72.49
+France,Government,Large,2026,99.5
+France,Government,Medium,2026,93.68
+France,Government,Small,2026,65.4
+France,Healthcare,Large,2026,97.01
+France,Healthcare,Medium,2026,96.78
+France,Healthcare,Small,2026,70.39
+France,Legal,Large,2026,93.66
+France,Legal,Medium,2026,64.14
+France,Legal,Small,2026,49.49
+France,Manufacturing,Large,2026,96.99
+France,Manufacturing,Medium,2026,91.07
+France,Manufacturing,Small,2026,74.81
+France,Media & Entertainment,Large,2026,96.25
+France,Media & Entertainment,Medium,2026,78.44
+France,Media & Entertainment,Small,2026,62.45
+France,Retail,Large,2026,98.01
+France,Retail,Medium,2026,76.97
+France,Retail,Small,2026,62.27
+France,Technology,Large,2026,97.06
+France,Technology,Medium,2026,97.16
+France,Technology,Small,2026,93.65
+Germany,Agriculture,Large,2026,88.95
+Germany,Agriculture,Medium,2026,82.31
+Germany,Agriculture,Small,2026,66.37
+Germany,Automotive,Large,2026,96.99
+Germany,Automotive,Medium,2026,97.31
+Germany,Automotive,Small,2026,71.32
+Germany,Education,Large,2026,98.25
+Germany,Education,Medium,2026,72.92
+Germany,Education,Small,2026,69.78
+Germany,Financial Services,Large,2026,97.08
+Germany,Financial Services,Medium,2026,99.4
+Germany,Financial Services,Small,2026,71.7
+Germany,Gaming,Large,2026,97.12
+Germany,Gaming,Medium,2026,97.17
+Germany,Gaming,Small,2026,95.09
+Germany,Government,Large,2026,97.71
+Germany,Government,Medium,2026,66.74
+Germany,Government,Small,2026,55.4
+Germany,Healthcare,Large,2026,97.05
+Germany,Healthcare,Medium,2026,97.75
+Germany,Healthcare,Small,2026,71.38
+Germany,Legal,Large,2026,99.5
+Germany,Legal,Medium,2026,71.77
+Germany,Legal,Small,2026,56.44
+Germany,Manufacturing,Large,2026,97.15
+Germany,Manufacturing,Medium,2026,94.88
+Germany,Manufacturing,Small,2026,86.79
+Germany,Media & Entertainment,Large,2026,96.97
+Germany,Media & Entertainment,Medium,2026,94.11
+Germany,Media & Entertainment,Small,2026,69.01
+Germany,Retail,Large,2026,97.66
+Germany,Retail,Medium,2026,98.02
+Germany,Retail,Small,2026,87.83
+Germany,Technology,Large,2026,97.11
+Germany,Technology,Medium,2026,97.07
+Germany,Technology,Small,2026,86.06
+India,Agriculture,Large,2026,71.15
+India,Agriculture,Medium,2026,47.2
+India,Agriculture,Small,2026,58.96
+India,Automotive,Large,2026,97.2
+India,Automotive,Medium,2026,90.71
+India,Automotive,Small,2026,68.08
+India,Education,Large,2026,99.5
+India,Education,Medium,2026,62.95
+India,Education,Small,2026,67.35
+India,Financial Services,Large,2026,97.02
+India,Financial Services,Medium,2026,81.2
+India,Financial Services,Small,2026,68.15
+India,Gaming,Large,2026,97.77
+India,Gaming,Medium,2026,89.87
+India,Gaming,Small,2026,82.46
+India,Government,Large,2026,92.39
+India,Government,Medium,2026,47.2
+India,Government,Small,2026,48.45
+India,Healthcare,Large,2026,97.49
+India,Healthcare,Medium,2026,83.07
+India,Healthcare,Small,2026,72.01
+India,Legal,Large,2026,87.08
+India,Legal,Medium,2026,69.0
+India,Legal,Small,2026,65.83
+India,Manufacturing,Large,2026,91.35
+India,Manufacturing,Medium,2026,86.41
+India,Manufacturing,Small,2026,58.19
+India,Media & Entertainment,Large,2026,97.79
+India,Media & Entertainment,Medium,2026,71.37
+India,Media & Entertainment,Small,2026,57.17
+India,Retail,Large,2026,90.63
+India,Retail,Medium,2026,91.85
+India,Retail,Small,2026,67.7
+India,Technology,Large,2026,97.01
+India,Technology,Medium,2026,89.04
+India,Technology,Small,2026,71.3
+Israel,Agriculture,Large,2026,90.27
+Israel,Agriculture,Medium,2026,67.71
+Israel,Agriculture,Small,2026,69.38
+Israel,Automotive,Large,2026,97.0
+Israel,Automotive,Medium,2026,97.11
+Israel,Automotive,Small,2026,99.5
+Israel,Education,Large,2026,96.66
+Israel,Education,Medium,2026,97.55
+Israel,Education,Small,2026,85.69
+Israel,Financial Services,Large,2026,97.05
+Israel,Financial Services,Medium,2026,97.05
+Israel,Financial Services,Small,2026,97.87
+Israel,Gaming,Large,2026,96.99
+Israel,Gaming,Medium,2026,97.01
+Israel,Gaming,Small,2026,99.42
+Israel,Government,Large,2026,99.4
+Israel,Government,Medium,2026,99.3
+Israel,Government,Small,2026,81.39
+Israel,Healthcare,Large,2026,97.05
+Israel,Healthcare,Medium,2026,97.0
+Israel,Healthcare,Small,2026,93.79
+Israel,Legal,Large,2026,97.78
+Israel,Legal,Medium,2026,90.46
+Israel,Legal,Small,2026,90.05
+Israel,Manufacturing,Large,2026,97.12
+Israel,Manufacturing,Medium,2026,97.02
+Israel,Manufacturing,Small,2026,81.66
+Israel,Media & Entertainment,Large,2026,97.03
+Israel,Media & Entertainment,Medium,2026,97.33
+Israel,Media & Entertainment,Small,2026,94.02
+Israel,Retail,Large,2026,96.99
+Israel,Retail,Medium,2026,98.82
+Israel,Retail,Small,2026,71.61
+Israel,Technology,Large,2026,97.01
+Israel,Technology,Medium,2026,96.99
+Israel,Technology,Small,2026,93.89
+Japan,Agriculture,Large,2026,89.34
+Japan,Agriculture,Medium,2026,70.25
+Japan,Agriculture,Small,2026,62.98
+Japan,Automotive,Large,2026,97.57
+Japan,Automotive,Medium,2026,99.12
+Japan,Automotive,Small,2026,69.04
+Japan,Education,Large,2026,86.56
+Japan,Education,Medium,2026,90.17
+Japan,Education,Small,2026,77.4
+Japan,Financial Services,Large,2026,96.93
+Japan,Financial Services,Medium,2026,94.37
+Japan,Financial Services,Small,2026,73.25
+Japan,Gaming,Large,2026,96.99
+Japan,Gaming,Medium,2026,98.47
+Japan,Gaming,Small,2026,77.28
+Japan,Government,Large,2026,92.89
+Japan,Government,Medium,2026,65.07
+Japan,Government,Small,2026,68.83
+Japan,Healthcare,Large,2026,97.09
+Japan,Healthcare,Medium,2026,88.3
+Japan,Healthcare,Small,2026,77.51
+Japan,Legal,Large,2026,74.33
+Japan,Legal,Medium,2026,77.9
+Japan,Legal,Small,2026,47.96
+Japan,Manufacturing,Large,2026,97.09
+Japan,Manufacturing,Medium,2026,78.79
+Japan,Manufacturing,Small,2026,82.19
+Japan,Media & Entertainment,Large,2026,96.32
+Japan,Media & Entertainment,Medium,2026,80.99
+Japan,Media & Entertainment,Small,2026,73.81
+Japan,Retail,Large,2026,97.44
+Japan,Retail,Medium,2026,81.41
+Japan,Retail,Small,2026,75.79
+Japan,Technology,Large,2026,97.02
+Japan,Technology,Medium,2026,97.38
+Japan,Technology,Small,2026,98.17
+Mexico,Agriculture,Large,2026,51.64
+Mexico,Agriculture,Medium,2026,34.96
+Mexico,Agriculture,Small,2026,64.64
+Mexico,Automotive,Large,2026,98.74
+Mexico,Automotive,Medium,2026,73.2
+Mexico,Automotive,Small,2026,57.06
+Mexico,Education,Large,2026,84.87
+Mexico,Education,Medium,2026,85.79
+Mexico,Education,Small,2026,51.38
+Mexico,Financial Services,Large,2026,96.85
+Mexico,Financial Services,Medium,2026,91.48
+Mexico,Financial Services,Small,2026,75.76
+Mexico,Gaming,Large,2026,97.13
+Mexico,Gaming,Medium,2026,82.68
+Mexico,Gaming,Small,2026,68.28
+Mexico,Government,Large,2026,74.04
+Mexico,Government,Medium,2026,88.35
+Mexico,Government,Small,2026,71.25
+Mexico,Healthcare,Large,2026,82.61
+Mexico,Healthcare,Medium,2026,62.22
+Mexico,Healthcare,Small,2026,56.62
+Mexico,Legal,Large,2026,89.99
+Mexico,Legal,Medium,2026,55.32
+Mexico,Legal,Small,2026,55.24
+Mexico,Manufacturing,Large,2026,86.12
+Mexico,Manufacturing,Medium,2026,66.77
+Mexico,Manufacturing,Small,2026,78.25
+Mexico,Media & Entertainment,Large,2026,92.43
+Mexico,Media & Entertainment,Medium,2026,79.46
+Mexico,Media & Entertainment,Small,2026,85.13
+Mexico,Retail,Large,2026,64.78
+Mexico,Retail,Medium,2026,77.24
+Mexico,Retail,Small,2026,41.05
+Mexico,Technology,Large,2026,97.73
+Mexico,Technology,Medium,2026,78.74
+Mexico,Technology,Small,2026,54.11
+Morocco,Agriculture,Large,2026,41.06
+Morocco,Agriculture,Medium,2026,35.05
+Morocco,Agriculture,Small,2026,40.1
+Morocco,Automotive,Large,2026,74.64
+Morocco,Automotive,Medium,2026,67.58
+Morocco,Automotive,Small,2026,42.37
+Morocco,Education,Large,2026,55.22
+Morocco,Education,Medium,2026,61.6
+Morocco,Education,Small,2026,49.11
+Morocco,Financial Services,Large,2026,68.96
+Morocco,Financial Services,Medium,2026,58.98
+Morocco,Financial Services,Small,2026,69.98
+Morocco,Gaming,Large,2026,77.26
+Morocco,Gaming,Medium,2026,81.22
+Morocco,Gaming,Small,2026,68.63
+Morocco,Government,Large,2026,66.04
+Morocco,Government,Medium,2026,55.83
+Morocco,Government,Small,2026,59.02
+Morocco,Healthcare,Large,2026,80.44
+Morocco,Healthcare,Medium,2026,70.71
+Morocco,Healthcare,Small,2026,56.45
+Morocco,Legal,Large,2026,69.37
+Morocco,Legal,Medium,2026,65.31
+Morocco,Legal,Small,2026,50.11
+Morocco,Manufacturing,Large,2026,69.92
+Morocco,Manufacturing,Medium,2026,56.89
+Morocco,Manufacturing,Small,2026,86.13
+Morocco,Media & Entertainment,Large,2026,75.3
+Morocco,Media & Entertainment,Medium,2026,65.36
+Morocco,Media & Entertainment,Small,2026,55.14
+Morocco,Retail,Large,2026,53.06
+Morocco,Retail,Medium,2026,52.71
+Morocco,Retail,Small,2026,68.76
+Morocco,Technology,Large,2026,87.68
+Morocco,Technology,Medium,2026,65.31
+Morocco,Technology,Small,2026,45.56
+Netherlands,Agriculture,Large,2026,66.39
+Netherlands,Agriculture,Medium,2026,58.29
+Netherlands,Agriculture,Small,2026,83.87
+Netherlands,Automotive,Large,2026,97.01
+Netherlands,Automotive,Medium,2026,99.5
+Netherlands,Automotive,Small,2026,92.73
+Netherlands,Education,Large,2026,94.89
+Netherlands,Education,Medium,2026,94.27
+Netherlands,Education,Small,2026,89.05
+Netherlands,Financial Services,Large,2026,96.97
+Netherlands,Financial Services,Medium,2026,97.06
+Netherlands,Financial Services,Small,2026,94.13
+Netherlands,Gaming,Large,2026,97.06
+Netherlands,Gaming,Medium,2026,99.17
+Netherlands,Gaming,Small,2026,87.91
+Netherlands,Government,Large,2026,95.57
+Netherlands,Government,Medium,2026,65.29
+Netherlands,Government,Small,2026,65.8
+Netherlands,Healthcare,Large,2026,96.92
+Netherlands,Healthcare,Medium,2026,88.43
+Netherlands,Healthcare,Small,2026,76.79
+Netherlands,Legal,Large,2026,98.4
+Netherlands,Legal,Medium,2026,90.71
+Netherlands,Legal,Small,2026,71.13
+Netherlands,Manufacturing,Large,2026,97.05
+Netherlands,Manufacturing,Medium,2026,99.5
+Netherlands,Manufacturing,Small,2026,96.69
+Netherlands,Media & Entertainment,Large,2026,96.98
+Netherlands,Media & Entertainment,Medium,2026,90.71
+Netherlands,Media & Entertainment,Small,2026,70.31
+Netherlands,Retail,Large,2026,97.1
+Netherlands,Retail,Medium,2026,81.86
+Netherlands,Retail,Small,2026,99.02
+Netherlands,Technology,Large,2026,97.0
+Netherlands,Technology,Medium,2026,97.05
+Netherlands,Technology,Small,2026,96.56
+Nigeria,Agriculture,Large,2026,59.23
+Nigeria,Agriculture,Medium,2026,63.04
+Nigeria,Agriculture,Small,2026,49.63
+Nigeria,Automotive,Large,2026,81.89
+Nigeria,Automotive,Medium,2026,85.95
+Nigeria,Automotive,Small,2026,79.2
+Nigeria,Education,Large,2026,71.13
+Nigeria,Education,Medium,2026,83.8
+Nigeria,Education,Small,2026,49.27
+Nigeria,Financial Services,Large,2026,85.18
+Nigeria,Financial Services,Medium,2026,40.02
+Nigeria,Financial Services,Small,2026,50.72
+Nigeria,Gaming,Large,2026,90.73
+Nigeria,Gaming,Medium,2026,85.31
+Nigeria,Gaming,Small,2026,45.84
+Nigeria,Government,Large,2026,69.52
+Nigeria,Government,Medium,2026,68.79
+Nigeria,Government,Small,2026,52.95
+Nigeria,Healthcare,Large,2026,77.26
+Nigeria,Healthcare,Medium,2026,67.76
+Nigeria,Healthcare,Small,2026,73.88
+Nigeria,Legal,Large,2026,72.38
+Nigeria,Legal,Medium,2026,57.15
+Nigeria,Legal,Small,2026,47.41
+Nigeria,Manufacturing,Large,2026,77.94
+Nigeria,Manufacturing,Medium,2026,65.86
+Nigeria,Manufacturing,Small,2026,67.7
+Nigeria,Media & Entertainment,Large,2026,88.21
+Nigeria,Media & Entertainment,Medium,2026,60.0
+Nigeria,Media & Entertainment,Small,2026,73.17
+Nigeria,Retail,Large,2026,59.88
+Nigeria,Retail,Medium,2026,46.75
+Nigeria,Retail,Small,2026,53.68
+Nigeria,Technology,Large,2026,78.69
+Nigeria,Technology,Medium,2026,80.99
+Nigeria,Technology,Small,2026,56.42
+Singapore,Agriculture,Large,2026,73.48
+Singapore,Agriculture,Medium,2026,62.38
+Singapore,Agriculture,Small,2026,67.11
+Singapore,Automotive,Large,2026,96.98
+Singapore,Automotive,Medium,2026,97.32
+Singapore,Automotive,Small,2026,71.27
+Singapore,Education,Large,2026,99.41
+Singapore,Education,Medium,2026,92.21
+Singapore,Education,Small,2026,79.92
+Singapore,Financial Services,Large,2026,96.96
+Singapore,Financial Services,Medium,2026,97.01
+Singapore,Financial Services,Small,2026,90.76
+Singapore,Gaming,Large,2026,96.99
+Singapore,Gaming,Medium,2026,91.85
+Singapore,Gaming,Small,2026,85.75
+Singapore,Government,Large,2026,99.5
+Singapore,Government,Medium,2026,92.68
+Singapore,Government,Small,2026,68.96
+Singapore,Healthcare,Large,2026,97.01
+Singapore,Healthcare,Medium,2026,99.23
+Singapore,Healthcare,Small,2026,83.72
+Singapore,Legal,Large,2026,98.86
+Singapore,Legal,Medium,2026,88.97
+Singapore,Legal,Small,2026,82.58
+Singapore,Manufacturing,Large,2026,97.0
+Singapore,Manufacturing,Medium,2026,99.28
+Singapore,Manufacturing,Small,2026,87.1
+Singapore,Media & Entertainment,Large,2026,97.06
+Singapore,Media & Entertainment,Medium,2026,99.5
+Singapore,Media & Entertainment,Small,2026,94.76
+Singapore,Retail,Large,2026,97.57
+Singapore,Retail,Medium,2026,99.5
+Singapore,Retail,Small,2026,72.34
+Singapore,Technology,Large,2026,97.07
+Singapore,Technology,Medium,2026,96.98
+Singapore,Technology,Small,2026,81.92
+South Africa,Agriculture,Large,2026,68.69
+South Africa,Agriculture,Medium,2026,57.53
+South Africa,Agriculture,Small,2026,51.55
+South Africa,Automotive,Large,2026,69.54
+South Africa,Automotive,Medium,2026,96.65
+South Africa,Automotive,Small,2026,81.2
+South Africa,Education,Large,2026,69.49
+South Africa,Education,Medium,2026,33.15
+South Africa,Education,Small,2026,57.68
+South Africa,Financial Services,Large,2026,93.22
+South Africa,Financial Services,Medium,2026,93.63
+South Africa,Financial Services,Small,2026,44.49
+South Africa,Gaming,Large,2026,89.33
+South Africa,Gaming,Medium,2026,91.99
+South Africa,Gaming,Small,2026,96.08
+South Africa,Government,Large,2026,52.87
+South Africa,Government,Medium,2026,57.77
+South Africa,Government,Small,2026,55.92
+South Africa,Healthcare,Large,2026,69.59
+South Africa,Healthcare,Medium,2026,75.77
+South Africa,Healthcare,Small,2026,64.1
+South Africa,Legal,Large,2026,77.96
+South Africa,Legal,Medium,2026,47.45
+South Africa,Legal,Small,2026,32.64
+South Africa,Manufacturing,Large,2026,98.42
+South Africa,Manufacturing,Medium,2026,77.78
+South Africa,Manufacturing,Small,2026,83.0
+South Africa,Media & Entertainment,Large,2026,97.6
+South Africa,Media & Entertainment,Medium,2026,74.58
+South Africa,Media & Entertainment,Small,2026,66.54
+South Africa,Retail,Large,2026,98.48
+South Africa,Retail,Medium,2026,74.18
+South Africa,Retail,Small,2026,79.69
+South Africa,Technology,Large,2026,99.5
+South Africa,Technology,Medium,2026,95.22
+South Africa,Technology,Small,2026,60.37
+South Korea,Agriculture,Large,2026,68.97
+South Korea,Agriculture,Medium,2026,63.49
+South Korea,Agriculture,Small,2026,59.87
+South Korea,Automotive,Large,2026,96.98
+South Korea,Automotive,Medium,2026,93.91
+South Korea,Automotive,Small,2026,72.72
+South Korea,Education,Large,2026,97.31
+South Korea,Education,Medium,2026,94.78
+South Korea,Education,Small,2026,56.6
+South Korea,Financial Services,Large,2026,97.01
+South Korea,Financial Services,Medium,2026,98.45
+South Korea,Financial Services,Small,2026,69.07
+South Korea,Gaming,Large,2026,97.01
+South Korea,Gaming,Medium,2026,91.54
+South Korea,Gaming,Small,2026,79.0
+South Korea,Government,Large,2026,76.9
+South Korea,Government,Medium,2026,83.55
+South Korea,Government,Small,2026,64.76
+South Korea,Healthcare,Large,2026,97.03
+South Korea,Healthcare,Medium,2026,96.27
+South Korea,Healthcare,Small,2026,81.48
+South Korea,Legal,Large,2026,97.78
+South Korea,Legal,Medium,2026,62.34
+South Korea,Legal,Small,2026,67.72
+South Korea,Manufacturing,Large,2026,97.01
+South Korea,Manufacturing,Medium,2026,96.17
+South Korea,Manufacturing,Small,2026,67.69
+South Korea,Media & Entertainment,Large,2026,97.02
+South Korea,Media & Entertainment,Medium,2026,97.59
+South Korea,Media & Entertainment,Small,2026,92.78
+South Korea,Retail,Large,2026,97.4
+South Korea,Retail,Medium,2026,94.15
+South Korea,Retail,Small,2026,64.75
+South Korea,Technology,Large,2026,97.04
+South Korea,Technology,Medium,2026,99.14
+South Korea,Technology,Small,2026,98.61
+Sweden,Agriculture,Large,2026,84.59
+Sweden,Agriculture,Medium,2026,57.81
+Sweden,Agriculture,Small,2026,44.96
+Sweden,Automotive,Large,2026,97.01
+Sweden,Automotive,Medium,2026,97.39
+Sweden,Automotive,Small,2026,94.72
+Sweden,Education,Large,2026,94.26
+Sweden,Education,Medium,2026,88.79
+Sweden,Education,Small,2026,61.46
+Sweden,Financial Services,Large,2026,97.01
+Sweden,Financial Services,Medium,2026,92.93
+Sweden,Financial Services,Small,2026,95.52
+Sweden,Gaming,Large,2026,96.94
+Sweden,Gaming,Medium,2026,97.01
+Sweden,Gaming,Small,2026,94.76
+Sweden,Government,Large,2026,92.41
+Sweden,Government,Medium,2026,68.02
+Sweden,Government,Small,2026,69.75
+Sweden,Healthcare,Large,2026,97.03
+Sweden,Healthcare,Medium,2026,97.33
+Sweden,Healthcare,Small,2026,96.96
+Sweden,Legal,Large,2026,99.5
+Sweden,Legal,Medium,2026,99.13
+Sweden,Legal,Small,2026,58.02
+Sweden,Manufacturing,Large,2026,97.05
+Sweden,Manufacturing,Medium,2026,99.5
+Sweden,Manufacturing,Small,2026,71.33
+Sweden,Media & Entertainment,Large,2026,97.01
+Sweden,Media & Entertainment,Medium,2026,87.66
+Sweden,Media & Entertainment,Small,2026,73.67
+Sweden,Retail,Large,2026,97.13
+Sweden,Retail,Medium,2026,97.21
+Sweden,Retail,Small,2026,99.19
+Sweden,Technology,Large,2026,97.0
+Sweden,Technology,Medium,2026,97.06
+Sweden,Technology,Small,2026,88.54
+United Kingdom,Agriculture,Large,2026,78.64
+United Kingdom,Agriculture,Medium,2026,73.68
+United Kingdom,Agriculture,Small,2026,70.44
+United Kingdom,Automotive,Large,2026,96.99
+United Kingdom,Automotive,Medium,2026,96.89
+United Kingdom,Automotive,Small,2026,94.03
+United Kingdom,Education,Large,2026,99.5
+United Kingdom,Education,Medium,2026,79.55
+United Kingdom,Education,Small,2026,91.23
+United Kingdom,Financial Services,Large,2026,97.03
+United Kingdom,Financial Services,Medium,2026,97.4
+United Kingdom,Financial Services,Small,2026,89.59
+United Kingdom,Gaming,Large,2026,97.02
+United Kingdom,Gaming,Medium,2026,97.05
+United Kingdom,Gaming,Small,2026,89.44
+United Kingdom,Government,Large,2026,99.5
+United Kingdom,Government,Medium,2026,78.99
+United Kingdom,Government,Small,2026,73.22
+United Kingdom,Healthcare,Large,2026,96.98
+United Kingdom,Healthcare,Medium,2026,97.65
+United Kingdom,Healthcare,Small,2026,84.69
+United Kingdom,Legal,Large,2026,77.65
+United Kingdom,Legal,Medium,2026,78.93
+United Kingdom,Legal,Small,2026,67.39
+United Kingdom,Manufacturing,Large,2026,96.99
+United Kingdom,Manufacturing,Medium,2026,94.52
+United Kingdom,Manufacturing,Small,2026,80.83
+United Kingdom,Media & Entertainment,Large,2026,97.01
+United Kingdom,Media & Entertainment,Medium,2026,98.43
+United Kingdom,Media & Entertainment,Small,2026,86.55
+United Kingdom,Retail,Large,2026,96.95
+United Kingdom,Retail,Medium,2026,98.84
+United Kingdom,Retail,Small,2026,76.87
+United Kingdom,Technology,Large,2026,97.04
+United Kingdom,Technology,Medium,2026,86.24
+United Kingdom,Technology,Small,2026,83.43
+United States,Agriculture,Large,2026,95.38
+United States,Agriculture,Medium,2026,77.22
+United States,Agriculture,Small,2026,60.94
+United States,Automotive,Large,2026,96.99
+United States,Automotive,Medium,2026,93.65
+United States,Automotive,Small,2026,94.22
+United States,Education,Large,2026,97.61
+United States,Education,Medium,2026,75.29
+United States,Education,Small,2026,81.5
+United States,Financial Services,Large,2026,96.96
+United States,Financial Services,Medium,2026,97.37
+United States,Financial Services,Small,2026,71.67
+United States,Gaming,Large,2026,97.01
+United States,Gaming,Medium,2026,97.46
+United States,Gaming,Small,2026,93.75
+United States,Government,Large,2026,99.27
+United States,Government,Medium,2026,66.49
+United States,Government,Small,2026,45.49
+United States,Healthcare,Large,2026,97.0
+United States,Healthcare,Medium,2026,99.19
+United States,Healthcare,Small,2026,99.5
+United States,Legal,Large,2026,97.99
+United States,Legal,Medium,2026,99.5
+United States,Legal,Small,2026,50.99
+United States,Manufacturing,Large,2026,97.02
+United States,Manufacturing,Medium,2026,97.77
+United States,Manufacturing,Small,2026,84.95
+United States,Media & Entertainment,Large,2026,97.03
+United States,Media & Entertainment,Medium,2026,92.92
+United States,Media & Entertainment,Small,2026,95.72
+United States,Retail,Large,2026,97.37
+United States,Retail,Medium,2026,99.5
+United States,Retail,Small,2026,84.66
+United States,Technology,Large,2026,97.04
+United States,Technology,Medium,2026,96.95
+United States,Technology,Small,2026,83.33
+Australia,Agriculture,Large,2027,47.39
+Australia,Agriculture,Medium,2027,68.45
+Australia,Agriculture,Small,2027,63.67
+Australia,Automotive,Large,2027,97.0
+Australia,Automotive,Medium,2027,99.09
+Australia,Automotive,Small,2027,73.24
+Australia,Education,Large,2027,97.57
+Australia,Education,Medium,2027,94.13
+Australia,Education,Small,2027,99.5
+Australia,Financial Services,Large,2027,97.03
+Australia,Financial Services,Medium,2027,97.44
+Australia,Financial Services,Small,2027,99.5
+Australia,Gaming,Large,2027,97.01
+Australia,Gaming,Medium,2027,96.83
+Australia,Gaming,Small,2027,97.06
+Australia,Government,Large,2027,82.31
+Australia,Government,Medium,2027,67.32
+Australia,Government,Small,2027,82.88
+Australia,Healthcare,Large,2027,96.89
+Australia,Healthcare,Medium,2027,82.66
+Australia,Healthcare,Small,2027,90.78
+Australia,Legal,Large,2027,84.8
+Australia,Legal,Medium,2027,95.29
+Australia,Legal,Small,2027,65.32
+Australia,Manufacturing,Large,2027,97.08
+Australia,Manufacturing,Medium,2027,98.89
+Australia,Manufacturing,Small,2027,64.56
+Australia,Media & Entertainment,Large,2027,83.79
+Australia,Media & Entertainment,Medium,2027,94.28
+Australia,Media & Entertainment,Small,2027,95.96
+Australia,Retail,Large,2027,97.01
+Australia,Retail,Medium,2027,97.64
+Australia,Retail,Small,2027,69.26
+Australia,Technology,Large,2027,96.99
+Australia,Technology,Medium,2027,96.94
+Australia,Technology,Small,2027,96.09
+Brazil,Agriculture,Large,2027,69.54
+Brazil,Agriculture,Medium,2027,51.03
+Brazil,Agriculture,Small,2027,57.56
+Brazil,Automotive,Large,2027,97.48
+Brazil,Automotive,Medium,2027,88.22
+Brazil,Automotive,Small,2027,69.03
+Brazil,Education,Large,2027,99.5
+Brazil,Education,Medium,2027,46.76
+Brazil,Education,Small,2027,95.5
+Brazil,Financial Services,Large,2027,97.43
+Brazil,Financial Services,Medium,2027,83.94
+Brazil,Financial Services,Small,2027,99.5
+Brazil,Gaming,Large,2027,97.39
+Brazil,Gaming,Medium,2027,87.61
+Brazil,Gaming,Small,2027,45.21
+Brazil,Government,Large,2027,88.5
+Brazil,Government,Medium,2027,87.63
+Brazil,Government,Small,2027,58.25
+Brazil,Healthcare,Large,2027,97.02
+Brazil,Healthcare,Medium,2027,72.9
+Brazil,Healthcare,Small,2027,97.84
+Brazil,Legal,Large,2027,92.25
+Brazil,Legal,Medium,2027,66.08
+Brazil,Legal,Small,2027,40.99
+Brazil,Manufacturing,Large,2027,97.55
+Brazil,Manufacturing,Medium,2027,84.77
+Brazil,Manufacturing,Small,2027,66.86
+Brazil,Media & Entertainment,Large,2027,99.5
+Brazil,Media & Entertainment,Medium,2027,99.19
+Brazil,Media & Entertainment,Small,2027,88.08
+Brazil,Retail,Large,2027,98.33
+Brazil,Retail,Medium,2027,86.94
+Brazil,Retail,Small,2027,87.95
+Brazil,Technology,Large,2027,97.41
+Brazil,Technology,Medium,2027,98.85
+Brazil,Technology,Small,2027,78.6
+Canada,Agriculture,Large,2027,99.5
+Canada,Agriculture,Medium,2027,91.26
+Canada,Agriculture,Small,2027,75.39
+Canada,Automotive,Large,2027,96.92
+Canada,Automotive,Medium,2027,97.31
+Canada,Automotive,Small,2027,93.2
+Canada,Education,Large,2027,97.64
+Canada,Education,Medium,2027,77.29
+Canada,Education,Small,2027,58.23
+Canada,Financial Services,Large,2027,96.94
+Canada,Financial Services,Medium,2027,95.0
+Canada,Financial Services,Small,2027,92.95
+Canada,Gaming,Large,2027,96.94
+Canada,Gaming,Medium,2027,96.99
+Canada,Gaming,Small,2027,93.89
+Canada,Government,Large,2027,94.18
+Canada,Government,Medium,2027,98.84
+Canada,Government,Small,2027,72.01
+Canada,Healthcare,Large,2027,96.96
+Canada,Healthcare,Medium,2027,97.69
+Canada,Healthcare,Small,2027,94.43
+Canada,Legal,Large,2027,94.17
+Canada,Legal,Medium,2027,76.04
+Canada,Legal,Small,2027,70.37
+Canada,Manufacturing,Large,2027,97.04
+Canada,Manufacturing,Medium,2027,97.47
+Canada,Manufacturing,Small,2027,77.51
+Canada,Media & Entertainment,Large,2027,96.96
+Canada,Media & Entertainment,Medium,2027,97.05
+Canada,Media & Entertainment,Small,2027,80.66
+Canada,Retail,Large,2027,90.08
+Canada,Retail,Medium,2027,94.24
+Canada,Retail,Small,2027,57.19
+Canada,Technology,Large,2027,96.84
+Canada,Technology,Medium,2027,96.95
+Canada,Technology,Small,2027,98.08
+China,Agriculture,Large,2027,83.26
+China,Agriculture,Medium,2027,53.69
+China,Agriculture,Small,2027,92.14
+China,Automotive,Large,2027,97.0
+China,Automotive,Medium,2027,86.83
+China,Automotive,Small,2027,94.39
+China,Education,Large,2027,96.68
+China,Education,Medium,2027,62.14
+China,Education,Small,2027,73.15
+China,Financial Services,Large,2027,96.83
+China,Financial Services,Medium,2027,93.22
+China,Financial Services,Small,2027,86.29
+China,Gaming,Large,2027,96.93
+China,Gaming,Medium,2027,97.28
+China,Gaming,Small,2027,71.61
+China,Government,Large,2027,70.45
+China,Government,Medium,2027,74.76
+China,Government,Small,2027,90.42
+China,Healthcare,Large,2027,96.98
+China,Healthcare,Medium,2027,97.29
+China,Healthcare,Small,2027,97.0
+China,Legal,Large,2027,97.78
+China,Legal,Medium,2027,95.0
+China,Legal,Small,2027,65.67
+China,Manufacturing,Large,2027,96.99
+China,Manufacturing,Medium,2027,97.42
+China,Manufacturing,Small,2027,84.72
+China,Media & Entertainment,Large,2027,97.05
+China,Media & Entertainment,Medium,2027,97.41
+China,Media & Entertainment,Small,2027,62.97
+China,Retail,Large,2027,96.89
+China,Retail,Medium,2027,97.93
+China,Retail,Small,2027,96.42
+China,Technology,Large,2027,96.97
+China,Technology,Medium,2027,97.06
+China,Technology,Small,2027,88.95
+Egypt,Agriculture,Large,2027,86.13
+Egypt,Agriculture,Medium,2027,76.13
+Egypt,Agriculture,Small,2027,90.6
+Egypt,Automotive,Large,2027,96.29
+Egypt,Automotive,Medium,2027,66.91
+Egypt,Automotive,Small,2027,88.1
+Egypt,Education,Large,2027,99.28
+Egypt,Education,Medium,2027,98.88
+Egypt,Education,Small,2027,39.39
+Egypt,Financial Services,Large,2027,78.17
+Egypt,Financial Services,Medium,2027,67.43
+Egypt,Financial Services,Small,2027,44.85
+Egypt,Gaming,Large,2027,97.04
+Egypt,Gaming,Medium,2027,99.5
+Egypt,Gaming,Small,2027,69.6
+Egypt,Government,Large,2027,49.64
+Egypt,Government,Medium,2027,49.66
+Egypt,Government,Small,2027,90.39
+Egypt,Healthcare,Large,2027,74.92
+Egypt,Healthcare,Medium,2027,99.1
+Egypt,Healthcare,Small,2027,63.78
+Egypt,Legal,Large,2027,99.5
+Egypt,Legal,Medium,2027,88.07
+Egypt,Legal,Small,2027,67.54
+Egypt,Manufacturing,Large,2027,97.58
+Egypt,Manufacturing,Medium,2027,70.92
+Egypt,Manufacturing,Small,2027,72.89
+Egypt,Media & Entertainment,Large,2027,96.69
+Egypt,Media & Entertainment,Medium,2027,77.03
+Egypt,Media & Entertainment,Small,2027,62.86
+Egypt,Retail,Large,2027,97.46
+Egypt,Retail,Medium,2027,62.96
+Egypt,Retail,Small,2027,43.85
+Egypt,Technology,Large,2027,97.5
+Egypt,Technology,Medium,2027,99.5
+Egypt,Technology,Small,2027,70.87
+France,Agriculture,Large,2027,75.71
+France,Agriculture,Medium,2027,98.3
+France,Agriculture,Small,2027,62.93
+France,Automotive,Large,2027,96.98
+France,Automotive,Medium,2027,97.67
+France,Automotive,Small,2027,89.77
+France,Education,Large,2027,96.97
+France,Education,Medium,2027,90.33
+France,Education,Small,2027,61.59
+France,Financial Services,Large,2027,96.92
+France,Financial Services,Medium,2027,80.69
+France,Financial Services,Small,2027,92.96
+France,Gaming,Large,2027,97.02
+France,Gaming,Medium,2027,92.08
+France,Gaming,Small,2027,73.68
+France,Government,Large,2027,97.42
+France,Government,Medium,2027,99.5
+France,Government,Small,2027,73.69
+France,Healthcare,Large,2027,96.97
+France,Healthcare,Medium,2027,98.85
+France,Healthcare,Small,2027,76.35
+France,Legal,Large,2027,99.03
+France,Legal,Medium,2027,61.42
+France,Legal,Small,2027,49.74
+France,Manufacturing,Large,2027,96.94
+France,Manufacturing,Medium,2027,97.19
+France,Manufacturing,Small,2027,80.76
+France,Media & Entertainment,Large,2027,96.22
+France,Media & Entertainment,Medium,2027,79.47
+France,Media & Entertainment,Small,2027,60.41
+France,Retail,Large,2027,97.01
+France,Retail,Medium,2027,80.22
+France,Retail,Small,2027,62.49
+France,Technology,Large,2027,96.99
+France,Technology,Medium,2027,97.44
+France,Technology,Small,2027,97.75
+Germany,Agriculture,Large,2027,99.3
+Germany,Agriculture,Medium,2027,96.23
+Germany,Agriculture,Small,2027,77.13
+Germany,Automotive,Large,2027,96.88
+Germany,Automotive,Medium,2027,97.33
+Germany,Automotive,Small,2027,73.69
+Germany,Education,Large,2027,96.5
+Germany,Education,Medium,2027,75.83
+Germany,Education,Small,2027,78.92
+Germany,Financial Services,Large,2027,96.95
+Germany,Financial Services,Medium,2027,97.09
+Germany,Financial Services,Small,2027,72.93
+Germany,Gaming,Large,2027,97.06
+Germany,Gaming,Medium,2027,97.02
+Germany,Gaming,Small,2027,98.1
+Germany,Government,Large,2027,99.27
+Germany,Government,Medium,2027,70.2
+Germany,Government,Small,2027,56.65
+Germany,Healthcare,Large,2027,97.0
+Germany,Healthcare,Medium,2027,97.1
+Germany,Healthcare,Small,2027,77.11
+Germany,Legal,Large,2027,97.13
+Germany,Legal,Medium,2027,77.11
+Germany,Legal,Small,2027,61.19
+Germany,Manufacturing,Large,2027,97.09
+Germany,Manufacturing,Medium,2027,97.97
+Germany,Manufacturing,Small,2027,97.48
+Germany,Media & Entertainment,Large,2027,96.93
+Germany,Media & Entertainment,Medium,2027,97.23
+Germany,Media & Entertainment,Small,2027,68.38
+Germany,Retail,Large,2027,97.06
+Germany,Retail,Medium,2027,97.39
+Germany,Retail,Small,2027,98.37
+Germany,Technology,Large,2027,97.04
+Germany,Technology,Medium,2027,97.03
+Germany,Technology,Small,2027,92.58
+India,Agriculture,Large,2027,76.6
+India,Agriculture,Medium,2027,48.57
+India,Agriculture,Small,2027,63.85
+India,Automotive,Large,2027,97.41
+India,Automotive,Medium,2027,98.56
+India,Automotive,Small,2027,70.93
+India,Education,Large,2027,96.97
+India,Education,Medium,2027,62.09
+India,Education,Small,2027,78.03
+India,Financial Services,Large,2027,96.94
+India,Financial Services,Medium,2027,84.53
+India,Financial Services,Small,2027,72.79
+India,Gaming,Large,2027,96.95
+India,Gaming,Medium,2027,96.53
+India,Gaming,Small,2027,92.53
+India,Government,Large,2027,99.17
+India,Government,Medium,2027,41.19
+India,Government,Small,2027,46.16
+India,Healthcare,Large,2027,96.96
+India,Healthcare,Medium,2027,88.61
+India,Healthcare,Small,2027,80.75
+India,Legal,Large,2027,94.37
+India,Legal,Medium,2027,76.23
+India,Legal,Small,2027,74.94
+India,Manufacturing,Large,2027,97.1
+India,Manufacturing,Medium,2027,97.31
+India,Manufacturing,Small,2027,55.79
+India,Media & Entertainment,Large,2027,96.94
+India,Media & Entertainment,Medium,2027,71.19
+India,Media & Entertainment,Small,2027,54.75
+India,Retail,Large,2027,96.58
+India,Retail,Medium,2027,97.93
+India,Retail,Small,2027,76.57
+India,Technology,Large,2027,96.98
+India,Technology,Medium,2027,94.28
+India,Technology,Small,2027,77.93
+Israel,Agriculture,Large,2027,97.56
+Israel,Agriculture,Medium,2027,72.28
+Israel,Agriculture,Small,2027,80.51
+Israel,Automotive,Large,2027,96.95
+Israel,Automotive,Medium,2027,97.01
+Israel,Automotive,Small,2027,98.06
+Israel,Education,Large,2027,95.94
+Israel,Education,Medium,2027,97.94
+Israel,Education,Small,2027,95.01
+Israel,Financial Services,Large,2027,97.05
+Israel,Financial Services,Medium,2027,96.97
+Israel,Financial Services,Small,2027,97.48
+Israel,Gaming,Large,2027,96.95
+Israel,Gaming,Medium,2027,97.03
+Israel,Gaming,Small,2027,97.33
+Israel,Government,Large,2027,97.01
+Israel,Government,Medium,2027,99.5
+Israel,Government,Small,2027,96.78
+Israel,Healthcare,Large,2027,97.01
+Israel,Healthcare,Medium,2027,96.96
+Israel,Healthcare,Small,2027,97.28
+Israel,Legal,Large,2027,97.04
+Israel,Legal,Medium,2027,97.55
+Israel,Legal,Small,2027,98.91
+Israel,Manufacturing,Large,2027,97.03
+Israel,Manufacturing,Medium,2027,96.95
+Israel,Manufacturing,Small,2027,84.7
+Israel,Media & Entertainment,Large,2027,96.97
+Israel,Media & Entertainment,Medium,2027,96.94
+Israel,Media & Entertainment,Small,2027,97.34
+Israel,Retail,Large,2027,96.96
+Israel,Retail,Medium,2027,97.6
+Israel,Retail,Small,2027,71.09
+Israel,Technology,Large,2027,96.95
+Israel,Technology,Medium,2027,96.95
+Israel,Technology,Small,2027,97.25
+Japan,Agriculture,Large,2027,99.5
+Japan,Agriculture,Medium,2027,81.23
+Japan,Agriculture,Small,2027,73.47
+Japan,Automotive,Large,2027,97.06
+Japan,Automotive,Medium,2027,97.47
+Japan,Automotive,Small,2027,69.09
+Japan,Education,Large,2027,92.11
+Japan,Education,Medium,2027,99.5
+Japan,Education,Small,2027,90.37
+Japan,Financial Services,Large,2027,96.92
+Japan,Financial Services,Medium,2027,97.34
+Japan,Financial Services,Small,2027,75.87
+Japan,Gaming,Large,2027,96.96
+Japan,Gaming,Medium,2027,97.39
+Japan,Gaming,Small,2027,80.4
+Japan,Government,Large,2027,98.22
+Japan,Government,Medium,2027,69.59
+Japan,Government,Small,2027,80.02
+Japan,Healthcare,Large,2027,96.96
+Japan,Healthcare,Medium,2027,93.54
+Japan,Healthcare,Small,2027,86.24
+Japan,Legal,Large,2027,74.72
+Japan,Legal,Medium,2027,85.32
+Japan,Legal,Small,2027,46.19
+Japan,Manufacturing,Large,2027,97.01
+Japan,Manufacturing,Medium,2027,80.24
+Japan,Manufacturing,Small,2027,91.68
+Japan,Media & Entertainment,Large,2027,97.0
+Japan,Media & Entertainment,Medium,2027,82.21
+Japan,Media & Entertainment,Small,2027,77.01
+Japan,Retail,Large,2027,96.9
+Japan,Retail,Medium,2027,83.91
+Japan,Retail,Small,2027,87.34
+Japan,Technology,Large,2027,96.98
+Japan,Technology,Medium,2027,97.06
+Japan,Technology,Small,2027,98.28
+Mexico,Agriculture,Large,2027,52.56
+Mexico,Agriculture,Medium,2027,28.48
+Mexico,Agriculture,Small,2027,77.92
+Mexico,Automotive,Large,2027,99.28
+Mexico,Automotive,Medium,2027,81.67
+Mexico,Automotive,Small,2027,61.98
+Mexico,Education,Large,2027,95.71
+Mexico,Education,Medium,2027,99.5
+Mexico,Education,Small,2027,52.08
+Mexico,Financial Services,Large,2027,97.56
+Mexico,Financial Services,Medium,2027,98.23
+Mexico,Financial Services,Small,2027,84.53
+Mexico,Gaming,Large,2027,97.32
+Mexico,Gaming,Medium,2027,87.81
+Mexico,Gaming,Small,2027,71.47
+Mexico,Government,Large,2027,83.5
+Mexico,Government,Medium,2027,99.5
+Mexico,Government,Small,2027,87.92
+Mexico,Healthcare,Large,2027,83.26
+Mexico,Healthcare,Medium,2027,56.91
+Mexico,Healthcare,Small,2027,57.51
+Mexico,Legal,Large,2027,99.5
+Mexico,Legal,Medium,2027,57.12
+Mexico,Legal,Small,2027,59.35
+Mexico,Manufacturing,Large,2027,92.27
+Mexico,Manufacturing,Medium,2027,72.54
+Mexico,Manufacturing,Small,2027,92.68
+Mexico,Media & Entertainment,Large,2027,97.52
+Mexico,Media & Entertainment,Medium,2027,88.49
+Mexico,Media & Entertainment,Small,2027,99.46
+Mexico,Retail,Large,2027,61.57
+Mexico,Retail,Medium,2027,87.49
+Mexico,Retail,Small,2027,38.91
+Mexico,Technology,Large,2027,97.02
+Mexico,Technology,Medium,2027,85.38
+Mexico,Technology,Small,2027,51.85
+Morocco,Agriculture,Large,2027,39.28
+Morocco,Agriculture,Medium,2027,32.87
+Morocco,Agriculture,Small,2027,42.66
+Morocco,Automotive,Large,2027,80.69
+Morocco,Automotive,Medium,2027,76.85
+Morocco,Automotive,Small,2027,41.45
+Morocco,Education,Large,2027,56.76
+Morocco,Education,Medium,2027,70.3
+Morocco,Education,Small,2027,53.55
+Morocco,Financial Services,Large,2027,74.01
+Morocco,Financial Services,Medium,2027,64.14
+Morocco,Financial Services,Small,2027,84.87
+Morocco,Gaming,Large,2027,82.18
+Morocco,Gaming,Medium,2027,94.65
+Morocco,Gaming,Small,2027,78.54
+Morocco,Government,Large,2027,73.51
+Morocco,Government,Medium,2027,62.08
+Morocco,Government,Small,2027,69.07
+Morocco,Healthcare,Large,2027,90.19
+Morocco,Healthcare,Medium,2027,86.35
+Morocco,Healthcare,Small,2027,62.85
+Morocco,Legal,Large,2027,75.75
+Morocco,Legal,Medium,2027,75.52
+Morocco,Legal,Small,2027,54.78
+Morocco,Manufacturing,Large,2027,76.32
+Morocco,Manufacturing,Medium,2027,63.58
+Morocco,Manufacturing,Small,2027,99.5
+Morocco,Media & Entertainment,Large,2027,81.73
+Morocco,Media & Entertainment,Medium,2027,74.97
+Morocco,Media & Entertainment,Small,2027,58.07
+Morocco,Retail,Large,2027,52.99
+Morocco,Retail,Medium,2027,53.49
+Morocco,Retail,Small,2027,84.2
+Morocco,Technology,Large,2027,96.64
+Morocco,Technology,Medium,2027,66.58
+Morocco,Technology,Small,2027,43.41
+Netherlands,Agriculture,Large,2027,64.61
+Netherlands,Agriculture,Medium,2027,54.96
+Netherlands,Agriculture,Small,2027,99.08
+Netherlands,Automotive,Large,2027,97.01
+Netherlands,Automotive,Medium,2027,97.03
+Netherlands,Automotive,Small,2027,97.88
+Netherlands,Education,Large,2027,96.42
+Netherlands,Education,Medium,2027,97.82
+Netherlands,Education,Small,2027,98.3
+Netherlands,Financial Services,Large,2027,96.94
+Netherlands,Financial Services,Medium,2027,97.01
+Netherlands,Financial Services,Small,2027,98.47
+Netherlands,Gaming,Large,2027,97.03
+Netherlands,Gaming,Medium,2027,97.04
+Netherlands,Gaming,Small,2027,94.86
+Netherlands,Government,Large,2027,97.85
+Netherlands,Government,Medium,2027,66.61
+Netherlands,Government,Small,2027,74.82
+Netherlands,Healthcare,Large,2027,96.95
+Netherlands,Healthcare,Medium,2027,87.51
+Netherlands,Healthcare,Small,2027,78.2
+Netherlands,Legal,Large,2027,97.52
+Netherlands,Legal,Medium,2027,97.41
+Netherlands,Legal,Small,2027,75.3
+Netherlands,Manufacturing,Large,2027,97.01
+Netherlands,Manufacturing,Medium,2027,97.43
+Netherlands,Manufacturing,Small,2027,99.3
+Netherlands,Media & Entertainment,Large,2027,96.96
+Netherlands,Media & Entertainment,Medium,2027,96.52
+Netherlands,Media & Entertainment,Small,2027,69.89
+Netherlands,Retail,Large,2027,96.94
+Netherlands,Retail,Medium,2027,84.45
+Netherlands,Retail,Small,2027,99.2
+Netherlands,Technology,Large,2027,96.96
+Netherlands,Technology,Medium,2027,96.97
+Netherlands,Technology,Small,2027,97.52
+Nigeria,Agriculture,Large,2027,69.36
+Nigeria,Agriculture,Medium,2027,73.6
+Nigeria,Agriculture,Small,2027,57.62
+Nigeria,Automotive,Large,2027,94.9
+Nigeria,Automotive,Medium,2027,99.5
+Nigeria,Automotive,Small,2027,95.18
+Nigeria,Education,Large,2027,86.34
+Nigeria,Education,Medium,2027,99.08
+Nigeria,Education,Small,2027,56.01
+Nigeria,Financial Services,Large,2027,98.02
+Nigeria,Financial Services,Medium,2027,34.16
+Nigeria,Financial Services,Small,2027,56.01
+Nigeria,Gaming,Large,2027,97.81
+Nigeria,Gaming,Medium,2027,99.44
+Nigeria,Gaming,Small,2027,46.4
+Nigeria,Government,Large,2027,83.86
+Nigeria,Government,Medium,2027,84.24
+Nigeria,Government,Small,2027,60.42
+Nigeria,Healthcare,Large,2027,86.36
+Nigeria,Healthcare,Medium,2027,76.65
+Nigeria,Healthcare,Small,2027,88.76
+Nigeria,Legal,Large,2027,89.96
+Nigeria,Legal,Medium,2027,67.19
+Nigeria,Legal,Small,2027,51.64
+Nigeria,Manufacturing,Large,2027,90.36
+Nigeria,Manufacturing,Medium,2027,75.18
+Nigeria,Manufacturing,Small,2027,78.83
+Nigeria,Media & Entertainment,Large,2027,99.5
+Nigeria,Media & Entertainment,Medium,2027,67.08
+Nigeria,Media & Entertainment,Small,2027,88.43
+Nigeria,Retail,Large,2027,62.51
+Nigeria,Retail,Medium,2027,41.51
+Nigeria,Retail,Small,2027,60.53
+Nigeria,Technology,Large,2027,84.67
+Nigeria,Technology,Medium,2027,94.98
+Nigeria,Technology,Small,2027,61.98
+Singapore,Agriculture,Large,2027,78.57
+Singapore,Agriculture,Medium,2027,65.62
+Singapore,Agriculture,Small,2027,76.75
+Singapore,Automotive,Large,2027,96.94
+Singapore,Automotive,Medium,2027,96.93
+Singapore,Automotive,Small,2027,72.14
+Singapore,Education,Large,2027,96.82
+Singapore,Education,Medium,2027,98.2
+Singapore,Education,Small,2027,88.76
+Singapore,Financial Services,Large,2027,96.93
+Singapore,Financial Services,Medium,2027,96.95
+Singapore,Financial Services,Small,2027,97.55
+Singapore,Gaming,Large,2027,96.95
+Singapore,Gaming,Medium,2027,91.2
+Singapore,Gaming,Small,2027,89.27
+Singapore,Government,Large,2027,97.75
+Singapore,Government,Medium,2027,99.39
+Singapore,Government,Small,2027,79.73
+Singapore,Healthcare,Large,2027,97.05
+Singapore,Healthcare,Medium,2027,96.99
+Singapore,Healthcare,Small,2027,89.38
+Singapore,Legal,Large,2027,97.49
+Singapore,Legal,Medium,2027,97.99
+Singapore,Legal,Small,2027,95.72
+Singapore,Manufacturing,Large,2027,96.95
+Singapore,Manufacturing,Medium,2027,97.04
+Singapore,Manufacturing,Small,2027,97.24
+Singapore,Media & Entertainment,Large,2027,97.04
+Singapore,Media & Entertainment,Medium,2027,96.99
+Singapore,Media & Entertainment,Small,2027,98.98
+Singapore,Retail,Large,2027,96.98
+Singapore,Retail,Medium,2027,97.02
+Singapore,Retail,Small,2027,76.05
+Singapore,Technology,Large,2027,97.0
+Singapore,Technology,Medium,2027,96.94
+Singapore,Technology,Small,2027,82.37
+South Africa,Agriculture,Large,2027,84.0
+South Africa,Agriculture,Medium,2027,64.52
+South Africa,Agriculture,Small,2027,58.35
+South Africa,Automotive,Large,2027,66.89
+South Africa,Automotive,Medium,2027,99.5
+South Africa,Automotive,Small,2027,95.83
+South Africa,Education,Large,2027,74.49
+South Africa,Education,Medium,2027,21.71
+South Africa,Education,Small,2027,65.54
+South Africa,Financial Services,Large,2027,98.15
+South Africa,Financial Services,Medium,2027,99.5
+South Africa,Financial Services,Small,2027,37.83
+South Africa,Gaming,Large,2027,97.32
+South Africa,Gaming,Medium,2027,99.5
+South Africa,Gaming,Small,2027,99.5
+South Africa,Government,Large,2027,56.37
+South Africa,Government,Medium,2027,64.89
+South Africa,Government,Small,2027,64.75
+South Africa,Healthcare,Large,2027,67.31
+South Africa,Healthcare,Medium,2027,81.82
+South Africa,Healthcare,Small,2027,73.9
+South Africa,Legal,Large,2027,89.4
+South Africa,Legal,Medium,2027,44.85
+South Africa,Legal,Small,2027,28.05
+South Africa,Manufacturing,Large,2027,99.5
+South Africa,Manufacturing,Medium,2027,89.39
+South Africa,Manufacturing,Small,2027,99.04
+South Africa,Media & Entertainment,Large,2027,97.37
+South Africa,Media & Entertainment,Medium,2027,83.31
+South Africa,Media & Entertainment,Small,2027,73.67
+South Africa,Retail,Large,2027,99.21
+South Africa,Retail,Medium,2027,85.21
+South Africa,Retail,Small,2027,97.22
+South Africa,Technology,Large,2027,97.14
+South Africa,Technology,Medium,2027,99.5
+South Africa,Technology,Small,2027,62.84
+South Korea,Agriculture,Large,2027,70.16
+South Korea,Agriculture,Medium,2027,69.9
+South Korea,Agriculture,Small,2027,68.93
+South Korea,Automotive,Large,2027,96.93
+South Korea,Automotive,Medium,2027,97.45
+South Korea,Automotive,Small,2027,72.97
+South Korea,Education,Large,2027,96.49
+South Korea,Education,Medium,2027,99.38
+South Korea,Education,Small,2027,58.37
+South Korea,Financial Services,Large,2027,96.97
+South Korea,Financial Services,Medium,2027,97.44
+South Korea,Financial Services,Small,2027,69.6
+South Korea,Gaming,Large,2027,96.97
+South Korea,Gaming,Medium,2027,95.19
+South Korea,Gaming,Small,2027,85.46
+South Korea,Government,Large,2027,78.09
+South Korea,Government,Medium,2027,94.6
+South Korea,Government,Small,2027,72.97
+South Korea,Healthcare,Large,2027,97.01
+South Korea,Healthcare,Medium,2027,96.95
+South Korea,Healthcare,Small,2027,90.28
+South Korea,Legal,Large,2027,97.04
+South Korea,Legal,Medium,2027,59.85
+South Korea,Legal,Small,2027,74.48
+South Korea,Manufacturing,Large,2027,96.94
+South Korea,Manufacturing,Medium,2027,97.84
+South Korea,Manufacturing,Small,2027,65.67
+South Korea,Media & Entertainment,Large,2027,96.97
+South Korea,Media & Entertainment,Medium,2027,97.45
+South Korea,Media & Entertainment,Small,2027,98.75
+South Korea,Retail,Large,2027,96.92
+South Korea,Retail,Medium,2027,97.33
+South Korea,Retail,Small,2027,66.8
+South Korea,Technology,Large,2027,97.01
+South Korea,Technology,Medium,2027,97.01
+South Korea,Technology,Small,2027,99.22
+Sweden,Agriculture,Large,2027,95.9
+Sweden,Agriculture,Medium,2027,60.75
+Sweden,Agriculture,Small,2027,39.73
+Sweden,Automotive,Large,2027,96.98
+Sweden,Automotive,Medium,2027,97.14
+Sweden,Automotive,Small,2027,99.5
+Sweden,Education,Large,2027,96.4
+Sweden,Education,Medium,2027,96.94
+Sweden,Education,Small,2027,62.5
+Sweden,Financial Services,Large,2027,97.01
+Sweden,Financial Services,Medium,2027,97.03
+Sweden,Financial Services,Small,2027,98.72
+Sweden,Gaming,Large,2027,96.88
+Sweden,Gaming,Medium,2027,96.94
+Sweden,Gaming,Small,2027,97.5
+Sweden,Government,Large,2027,98.39
+Sweden,Government,Medium,2027,76.64
+Sweden,Government,Small,2027,79.99
+Sweden,Healthcare,Large,2027,96.99
+Sweden,Healthcare,Medium,2027,96.92
+Sweden,Healthcare,Small,2027,98.79
+Sweden,Legal,Large,2027,99.02
+Sweden,Legal,Medium,2027,99.5
+Sweden,Legal,Small,2027,58.11
+Sweden,Manufacturing,Large,2027,97.01
+Sweden,Manufacturing,Medium,2027,97.35
+Sweden,Manufacturing,Small,2027,77.84
+Sweden,Media & Entertainment,Large,2027,97.01
+Sweden,Media & Entertainment,Medium,2027,93.35
+Sweden,Media & Entertainment,Small,2027,75.69
+Sweden,Retail,Large,2027,96.97
+Sweden,Retail,Medium,2027,97.66
+Sweden,Retail,Small,2027,99.5
+Sweden,Technology,Large,2027,96.99
+Sweden,Technology,Medium,2027,97.02
+Sweden,Technology,Small,2027,95.02
+United Kingdom,Agriculture,Large,2027,88.02
+United Kingdom,Agriculture,Medium,2027,82.62
+United Kingdom,Agriculture,Small,2027,81.07
+United Kingdom,Automotive,Large,2027,96.96
+United Kingdom,Automotive,Medium,2027,97.37
+United Kingdom,Automotive,Small,2027,97.53
+United Kingdom,Education,Large,2027,96.54
+United Kingdom,Education,Medium,2027,85.73
+United Kingdom,Education,Small,2027,99.5
+United Kingdom,Financial Services,Large,2027,97.07
+United Kingdom,Financial Services,Medium,2027,97.09
+United Kingdom,Financial Services,Small,2027,97.26
+United Kingdom,Gaming,Large,2027,96.97
+United Kingdom,Gaming,Medium,2027,96.96
+United Kingdom,Gaming,Small,2027,97.33
+United Kingdom,Government,Large,2027,97.48
+United Kingdom,Government,Medium,2027,82.92
+United Kingdom,Government,Small,2027,85.26
+United Kingdom,Healthcare,Large,2027,96.94
+United Kingdom,Healthcare,Medium,2027,96.98
+United Kingdom,Healthcare,Small,2027,92.83
+United Kingdom,Legal,Large,2027,79.07
+United Kingdom,Legal,Medium,2027,86.33
+United Kingdom,Legal,Small,2027,74.47
+United Kingdom,Manufacturing,Large,2027,96.95
+United Kingdom,Manufacturing,Medium,2027,97.1
+United Kingdom,Manufacturing,Small,2027,89.7
+United Kingdom,Media & Entertainment,Large,2027,96.98
+United Kingdom,Media & Entertainment,Medium,2027,97.05
+United Kingdom,Media & Entertainment,Small,2027,97.31
+United Kingdom,Retail,Large,2027,96.94
+United Kingdom,Retail,Medium,2027,97.96
+United Kingdom,Retail,Small,2027,85.68
+United Kingdom,Technology,Large,2027,97.09
+United Kingdom,Technology,Medium,2027,84.55
+United Kingdom,Technology,Small,2027,84.39
+United States,Agriculture,Large,2027,99.5
+United States,Agriculture,Medium,2027,91.81
+United States,Agriculture,Small,2027,66.07
+United States,Automotive,Large,2027,96.95
+United States,Automotive,Medium,2027,97.25
+United States,Automotive,Small,2027,99.02
+United States,Education,Large,2027,96.46
+United States,Education,Medium,2027,80.62
+United States,Education,Small,2027,90.15
+United States,Financial Services,Large,2027,96.92
+United States,Financial Services,Medium,2027,96.93
+United States,Financial Services,Small,2027,72.33
+United States,Gaming,Large,2027,96.97
+United States,Gaming,Medium,2027,96.97
+United States,Gaming,Small,2027,98.01
+United States,Government,Large,2027,97.4
+United States,Government,Medium,2027,65.18
+United States,Government,Small,2027,39.93
+United States,Healthcare,Large,2027,96.94
+United States,Healthcare,Medium,2027,97.0
+United States,Healthcare,Small,2027,98.74
+United States,Legal,Large,2027,97.38
+United States,Legal,Medium,2027,97.87
+United States,Legal,Small,2027,46.14
+United States,Manufacturing,Large,2027,96.98
+United States,Manufacturing,Medium,2027,97.53
+United States,Manufacturing,Small,2027,94.54
+United States,Media & Entertainment,Large,2027,96.99
+United States,Media & Entertainment,Medium,2027,96.95
+United States,Media & Entertainment,Small,2027,99.5
+United States,Retail,Large,2027,96.93
+United States,Retail,Medium,2027,97.1
+United States,Retail,Small,2027,94.77
+United States,Technology,Large,2027,97.03
+United States,Technology,Medium,2027,96.98
+United States,Technology,Small,2027,85.7
+Australia,Agriculture,Large,2028,42.05
+Australia,Agriculture,Medium,2028,75.71
+Australia,Agriculture,Small,2028,68.3
+Australia,Automotive,Large,2028,97.0
+Australia,Automotive,Medium,2028,97.01
+Australia,Automotive,Small,2028,76.22
+Australia,Education,Large,2028,96.5
+Australia,Education,Medium,2028,97.52
+Australia,Education,Small,2028,98.23
+Australia,Financial Services,Large,2028,96.98
+Australia,Financial Services,Medium,2028,97.32
+Australia,Financial Services,Small,2028,97.25
+Australia,Gaming,Large,2028,96.33
+Australia,Gaming,Medium,2028,97.41
+Australia,Gaming,Small,2028,98.09
+Australia,Government,Large,2028,86.46
+Australia,Government,Medium,2028,69.28
+Australia,Government,Small,2028,94.94
+Australia,Healthcare,Large,2028,96.27
+Australia,Healthcare,Medium,2028,87.0
+Australia,Healthcare,Small,2028,97.3
+Australia,Legal,Large,2028,89.01
+Australia,Legal,Medium,2028,98.48
+Australia,Legal,Small,2028,69.61
+Australia,Manufacturing,Large,2028,93.47
+Australia,Manufacturing,Medium,2028,97.39
+Australia,Manufacturing,Small,2028,66.96
+Australia,Media & Entertainment,Large,2028,83.7
+Australia,Media & Entertainment,Medium,2028,97.32
+Australia,Media & Entertainment,Small,2028,98.1
+Australia,Retail,Large,2028,93.58
+Australia,Retail,Medium,2028,97.48
+Australia,Retail,Small,2028,72.71
+Australia,Technology,Large,2028,96.99
+Australia,Technology,Medium,2028,96.26
+Australia,Technology,Small,2028,97.51
+Brazil,Agriculture,Large,2028,76.84
+Brazil,Agriculture,Medium,2028,52.84
+Brazil,Agriculture,Small,2028,63.98
+Brazil,Automotive,Large,2028,96.91
+Brazil,Automotive,Medium,2028,97.37
+Brazil,Automotive,Small,2028,76.23
+Brazil,Education,Large,2028,96.99
+Brazil,Education,Medium,2028,42.6
+Brazil,Education,Small,2028,99.5
+Brazil,Financial Services,Large,2028,93.47
+Brazil,Financial Services,Medium,2028,89.9
+Brazil,Financial Services,Small,2028,97.87
+Brazil,Gaming,Large,2028,97.06
+Brazil,Gaming,Medium,2028,94.84
+Brazil,Gaming,Small,2028,37.87
+Brazil,Government,Large,2028,97.7
+Brazil,Government,Medium,2028,98.03
+Brazil,Government,Small,2028,65.51
+Brazil,Healthcare,Large,2028,93.98
+Brazil,Healthcare,Medium,2028,75.7
+Brazil,Healthcare,Small,2028,98.93
+Brazil,Legal,Large,2028,98.28
+Brazil,Legal,Medium,2028,69.5
+Brazil,Legal,Small,2028,38.84
+Brazil,Manufacturing,Large,2028,97.73
+Brazil,Manufacturing,Medium,2028,91.12
+Brazil,Manufacturing,Small,2028,74.99
+Brazil,Media & Entertainment,Large,2028,97.06
+Brazil,Media & Entertainment,Medium,2028,97.1
+Brazil,Media & Entertainment,Small,2028,98.1
+Brazil,Retail,Large,2028,93.62
+Brazil,Retail,Medium,2028,94.39
+Brazil,Retail,Small,2028,97.94
+Brazil,Technology,Large,2028,96.97
+Brazil,Technology,Medium,2028,96.3
+Brazil,Technology,Small,2028,86.24
+Canada,Agriculture,Large,2028,97.06
+Canada,Agriculture,Medium,2028,98.34
+Canada,Agriculture,Small,2028,87.04
+Canada,Automotive,Large,2028,96.94
+Canada,Automotive,Medium,2028,97.11
+Canada,Automotive,Small,2028,97.26
+Canada,Education,Large,2028,93.1
+Canada,Education,Medium,2028,79.51
+Canada,Education,Small,2028,58.13
+Canada,Financial Services,Large,2028,96.94
+Canada,Financial Services,Medium,2028,97.09
+Canada,Financial Services,Small,2028,97.05
+Canada,Gaming,Large,2028,96.94
+Canada,Gaming,Medium,2028,96.98
+Canada,Gaming,Small,2028,97.38
+Canada,Government,Large,2028,97.83
+Canada,Government,Medium,2028,99.11
+Canada,Government,Small,2028,80.05
+Canada,Healthcare,Large,2028,96.97
+Canada,Healthcare,Medium,2028,96.98
+Canada,Healthcare,Small,2028,97.54
+Canada,Legal,Large,2028,97.36
+Canada,Legal,Medium,2028,78.05
+Canada,Legal,Small,2028,76.41
+Canada,Manufacturing,Large,2028,97.04
+Canada,Manufacturing,Medium,2028,93.68
+Canada,Manufacturing,Small,2028,80.54
+Canada,Media & Entertainment,Large,2028,96.83
+Canada,Media & Entertainment,Medium,2028,97.09
+Canada,Media & Entertainment,Small,2028,87.01
+Canada,Retail,Large,2028,94.6
+Canada,Retail,Medium,2028,97.3
+Canada,Retail,Small,2028,57.18
+Canada,Technology,Large,2028,96.15
+Canada,Technology,Medium,2028,96.3
+Canada,Technology,Small,2028,97.04
+China,Agriculture,Large,2028,90.49
+China,Agriculture,Medium,2028,53.17
+China,Agriculture,Small,2028,99.5
+China,Automotive,Large,2028,97.0
+China,Automotive,Medium,2028,92.22
+China,Automotive,Small,2028,97.72
+China,Education,Large,2028,93.28
+China,Education,Medium,2028,62.38
+China,Education,Small,2028,78.11
+China,Financial Services,Large,2028,96.8
+China,Financial Services,Medium,2028,96.84
+China,Financial Services,Small,2028,92.19
+China,Gaming,Large,2028,96.91
+China,Gaming,Medium,2028,96.79
+China,Gaming,Small,2028,71.16
+China,Government,Large,2028,71.37
+China,Government,Medium,2028,79.83
+China,Government,Small,2028,98.77
+China,Healthcare,Large,2028,96.97
+China,Healthcare,Medium,2028,96.12
+China,Healthcare,Small,2028,97.46
+China,Legal,Large,2028,96.94
+China,Legal,Medium,2028,97.62
+China,Legal,Small,2028,69.42
+China,Manufacturing,Large,2028,96.98
+China,Manufacturing,Medium,2028,97.37
+China,Manufacturing,Small,2028,91.07
+China,Media & Entertainment,Large,2028,96.4
+China,Media & Entertainment,Medium,2028,93.62
+China,Media & Entertainment,Small,2028,62.48
+China,Retail,Large,2028,96.11
+China,Retail,Medium,2028,97.38
+China,Retail,Small,2028,98.55
+China,Technology,Large,2028,96.97
+China,Technology,Medium,2028,96.98
+China,Technology,Small,2028,93.42
+Egypt,Agriculture,Large,2028,97.59
+Egypt,Agriculture,Medium,2028,88.74
+Egypt,Agriculture,Small,2028,99.5
+Egypt,Automotive,Large,2028,98.0
+Egypt,Automotive,Medium,2028,66.89
+Egypt,Automotive,Small,2028,98.01
+Egypt,Education,Large,2028,97.75
+Egypt,Education,Medium,2028,99.31
+Egypt,Education,Small,2028,37.61
+Egypt,Financial Services,Large,2028,80.58
+Egypt,Financial Services,Medium,2028,69.27
+Egypt,Financial Services,Small,2028,37.76
+Egypt,Gaming,Large,2028,93.72
+Egypt,Gaming,Medium,2028,96.99
+Egypt,Gaming,Small,2028,74.4
+Egypt,Government,Large,2028,46.8
+Egypt,Government,Medium,2028,47.58
+Egypt,Government,Small,2028,99.5
+Egypt,Healthcare,Large,2028,76.76
+Egypt,Healthcare,Medium,2028,98.87
+Egypt,Healthcare,Small,2028,67.56
+Egypt,Legal,Large,2028,98.01
+Egypt,Legal,Medium,2028,98.91
+Egypt,Legal,Small,2028,79.05
+Egypt,Manufacturing,Large,2028,97.44
+Egypt,Manufacturing,Medium,2028,76.82
+Egypt,Manufacturing,Small,2028,81.5
+Egypt,Media & Entertainment,Large,2028,97.56
+Egypt,Media & Entertainment,Medium,2028,82.71
+Egypt,Media & Entertainment,Small,2028,67.89
+Egypt,Retail,Large,2028,97.49
+Egypt,Retail,Medium,2028,67.52
+Egypt,Retail,Small,2028,41.19
+Egypt,Technology,Large,2028,97.14
+Egypt,Technology,Medium,2028,97.0
+Egypt,Technology,Small,2028,76.08
+France,Agriculture,Large,2028,82.03
+France,Agriculture,Medium,2028,99.5
+France,Agriculture,Small,2028,69.72
+France,Automotive,Large,2028,96.98
+France,Automotive,Medium,2028,93.67
+France,Automotive,Small,2028,97.44
+France,Education,Large,2028,96.6
+France,Education,Medium,2028,97.36
+France,Education,Small,2028,63.89
+France,Financial Services,Large,2028,96.92
+France,Financial Services,Medium,2028,84.02
+France,Financial Services,Small,2028,97.21
+France,Gaming,Large,2028,97.02
+France,Gaming,Medium,2028,95.35
+France,Gaming,Small,2028,74.31
+France,Government,Large,2028,93.73
+France,Government,Medium,2028,97.32
+France,Government,Small,2028,82.14
+France,Healthcare,Large,2028,96.97
+France,Healthcare,Medium,2028,97.02
+France,Healthcare,Small,2028,82.14
+France,Legal,Large,2028,97.32
+France,Legal,Medium,2028,58.79
+France,Legal,Small,2028,50.22
+France,Manufacturing,Large,2028,96.93
+France,Manufacturing,Medium,2028,97.32
+France,Manufacturing,Small,2028,87.2
+France,Media & Entertainment,Large,2028,96.9
+France,Media & Entertainment,Medium,2028,82.15
+France,Media & Entertainment,Small,2028,58.55
+France,Retail,Large,2028,93.58
+France,Retail,Medium,2028,83.86
+France,Retail,Small,2028,63.98
+France,Technology,Large,2028,97.01
+France,Technology,Medium,2028,96.98
+France,Technology,Small,2028,97.09
+Germany,Agriculture,Large,2028,98.06
+Germany,Agriculture,Medium,2028,99.26
+Germany,Agriculture,Small,2028,88.1
+Germany,Automotive,Large,2028,96.96
+Germany,Automotive,Medium,2028,96.96
+Germany,Automotive,Small,2028,75.69
+Germany,Education,Large,2028,93.1
+Germany,Education,Medium,2028,78.49
+Germany,Education,Small,2028,88.1
+Germany,Financial Services,Large,2028,97.07
+Germany,Financial Services,Medium,2028,93.81
+Germany,Financial Services,Small,2028,73.49
+Germany,Gaming,Large,2028,97.09
+Germany,Gaming,Medium,2028,96.73
+Germany,Gaming,Small,2028,97.12
+Germany,Government,Large,2028,97.02
+Germany,Government,Medium,2028,73.58
+Germany,Government,Small,2028,58.69
+Germany,Healthcare,Large,2028,97.01
+Germany,Healthcare,Medium,2028,96.37
+Germany,Healthcare,Small,2028,83.84
+Germany,Legal,Large,2028,93.83
+Germany,Legal,Medium,2028,82.26
+Germany,Legal,Small,2028,65.98
+Germany,Manufacturing,Large,2028,97.12
+Germany,Manufacturing,Medium,2028,97.18
+Germany,Manufacturing,Small,2028,98.01
+Germany,Media & Entertainment,Large,2028,96.93
+Germany,Media & Entertainment,Medium,2028,96.98
+Germany,Media & Entertainment,Small,2028,68.28
+Germany,Retail,Large,2028,96.38
+Germany,Retail,Medium,2028,96.33
+Germany,Retail,Small,2028,97.84
+Germany,Technology,Large,2028,97.1
+Germany,Technology,Medium,2028,97.05
+Germany,Technology,Small,2028,97.19
+India,Agriculture,Large,2028,81.3
+India,Agriculture,Medium,2028,49.7
+India,Agriculture,Small,2028,68.95
+India,Automotive,Large,2028,96.96
+India,Automotive,Medium,2028,97.51
+India,Automotive,Small,2028,74.55
+India,Education,Large,2028,93.03
+India,Education,Medium,2028,60.33
+India,Education,Small,2028,89.51
+India,Financial Services,Large,2028,96.94
+India,Financial Services,Medium,2028,88.79
+India,Financial Services,Small,2028,77.87
+India,Gaming,Large,2028,93.44
+India,Gaming,Medium,2028,97.35
+India,Gaming,Small,2028,97.51
+India,Government,Large,2028,97.45
+India,Government,Medium,2028,35.48
+India,Government,Small,2028,44.06
+India,Healthcare,Large,2028,96.34
+India,Healthcare,Medium,2028,94.07
+India,Healthcare,Small,2028,89.64
+India,Legal,Large,2028,97.4
+India,Legal,Medium,2028,83.04
+India,Legal,Small,2028,83.5
+India,Manufacturing,Large,2028,97.42
+India,Manufacturing,Medium,2028,98.25
+India,Manufacturing,Small,2028,53.38
+India,Media & Entertainment,Large,2028,93.43
+India,Media & Entertainment,Medium,2028,71.23
+India,Media & Entertainment,Small,2028,52.4
+India,Retail,Large,2028,97.34
+India,Retail,Medium,2028,97.32
+India,Retail,Small,2028,84.67
+India,Technology,Large,2028,96.98
+India,Technology,Medium,2028,97.23
+India,Technology,Small,2028,85.81
+Israel,Agriculture,Large,2028,97.52
+Israel,Agriculture,Medium,2028,77.63
+Israel,Agriculture,Small,2028,91.32
+Israel,Automotive,Large,2028,96.78
+Israel,Automotive,Medium,2028,97.0
+Israel,Automotive,Small,2028,93.54
+Israel,Education,Large,2028,93.23
+Israel,Education,Medium,2028,96.55
+Israel,Education,Small,2028,97.48
+Israel,Financial Services,Large,2028,97.06
+Israel,Financial Services,Medium,2028,96.97
+Israel,Financial Services,Small,2028,96.21
+Israel,Gaming,Large,2028,96.96
+Israel,Gaming,Medium,2028,96.98
+Israel,Gaming,Small,2028,93.73
+Israel,Government,Large,2028,93.88
+Israel,Government,Medium,2028,96.97
+Israel,Government,Small,2028,99.3
+Israel,Healthcare,Large,2028,96.82
+Israel,Healthcare,Medium,2028,96.96
+Israel,Healthcare,Small,2028,97.1
+Israel,Legal,Large,2028,93.66
+Israel,Legal,Medium,2028,97.42
+Israel,Legal,Small,2028,97.54
+Israel,Manufacturing,Large,2028,97.06
+Israel,Manufacturing,Medium,2028,96.95
+Israel,Manufacturing,Small,2028,89.11
+Israel,Media & Entertainment,Large,2028,97.03
+Israel,Media & Entertainment,Medium,2028,96.24
+Israel,Media & Entertainment,Small,2028,97.13
+Israel,Retail,Large,2028,96.96
+Israel,Retail,Medium,2028,93.58
+Israel,Retail,Small,2028,70.89
+Israel,Technology,Large,2028,96.95
+Israel,Technology,Medium,2028,96.95
+Israel,Technology,Small,2028,97.06
+Japan,Agriculture,Large,2028,98.03
+Japan,Agriculture,Medium,2028,91.89
+Japan,Agriculture,Small,2028,83.54
+Japan,Automotive,Large,2028,96.38
+Japan,Automotive,Medium,2028,93.68
+Japan,Automotive,Small,2028,69.41
+Japan,Education,Large,2028,96.51
+Japan,Education,Medium,2028,97.44
+Japan,Education,Small,2028,98.57
+Japan,Financial Services,Large,2028,96.92
+Japan,Financial Services,Medium,2028,97.01
+Japan,Financial Services,Small,2028,77.93
+Japan,Gaming,Large,2028,96.96
+Japan,Gaming,Medium,2028,93.57
+Japan,Gaming,Small,2028,85.2
+Japan,Government,Large,2028,97.43
+Japan,Government,Medium,2028,74.7
+Japan,Government,Small,2028,91.62
+Japan,Healthcare,Large,2028,97.0
+Japan,Healthcare,Medium,2028,97.2
+Japan,Healthcare,Small,2028,96.2
+Japan,Legal,Large,2028,76.31
+Japan,Legal,Medium,2028,93.51
+Japan,Legal,Small,2028,44.79
+Japan,Manufacturing,Large,2028,97.05
+Japan,Manufacturing,Medium,2028,82.31
+Japan,Manufacturing,Small,2028,97.24
+Japan,Media & Entertainment,Large,2028,97.0
+Japan,Media & Entertainment,Medium,2028,85.04
+Japan,Media & Entertainment,Small,2028,80.13
+Japan,Retail,Large,2028,96.32
+Japan,Retail,Medium,2028,87.66
+Japan,Retail,Small,2028,97.35
+Japan,Technology,Large,2028,96.99
+Japan,Technology,Medium,2028,96.28
+Japan,Technology,Small,2028,96.92
+Mexico,Agriculture,Large,2028,52.89
+Mexico,Agriculture,Medium,2028,21.91
+Mexico,Agriculture,Small,2028,91.37
+Mexico,Automotive,Large,2028,97.04
+Mexico,Automotive,Medium,2028,90.06
+Mexico,Automotive,Small,2028,66.32
+Mexico,Education,Large,2028,98.02
+Mexico,Education,Medium,2028,98.89
+Mexico,Education,Small,2028,52.76
+Mexico,Financial Services,Large,2028,96.97
+Mexico,Financial Services,Medium,2028,97.33
+Mexico,Financial Services,Small,2028,94.11
+Mexico,Gaming,Large,2028,96.93
+Mexico,Gaming,Medium,2028,93.44
+Mexico,Gaming,Small,2028,74.94
+Mexico,Government,Large,2028,93.79
+Mexico,Government,Medium,2028,98.13
+Mexico,Government,Small,2028,99.43
+Mexico,Healthcare,Large,2028,86.71
+Mexico,Healthcare,Medium,2028,52.76
+Mexico,Healthcare,Small,2028,59.14
+Mexico,Legal,Large,2028,97.78
+Mexico,Legal,Medium,2028,59.83
+Mexico,Legal,Small,2028,63.33
+Mexico,Manufacturing,Large,2028,97.1
+Mexico,Manufacturing,Medium,2028,78.72
+Mexico,Manufacturing,Small,2028,98.75
+Mexico,Media & Entertainment,Large,2028,97.38
+Mexico,Media & Entertainment,Medium,2028,96.86
+Mexico,Media & Entertainment,Small,2028,99.01
+Mexico,Retail,Large,2028,58.75
+Mexico,Retail,Medium,2028,97.03
+Mexico,Retail,Small,2028,37.01
+Mexico,Technology,Large,2028,93.5
+Mexico,Technology,Medium,2028,92.77
+Mexico,Technology,Small,2028,49.38
+Morocco,Agriculture,Large,2028,37.84
+Morocco,Agriculture,Medium,2028,31.08
+Morocco,Agriculture,Small,2028,45.36
+Morocco,Automotive,Large,2028,87.17
+Morocco,Automotive,Medium,2028,85.2
+Morocco,Automotive,Small,2028,40.78
+Morocco,Education,Large,2028,59.0
+Morocco,Education,Medium,2028,79.08
+Morocco,Education,Small,2028,58.17
+Morocco,Financial Services,Large,2028,78.49
+Morocco,Financial Services,Medium,2028,68.93
+Morocco,Financial Services,Small,2028,96.88
+Morocco,Gaming,Large,2028,87.4
+Morocco,Gaming,Medium,2028,98.91
+Morocco,Gaming,Small,2028,89.03
+Morocco,Government,Large,2028,81.22
+Morocco,Government,Medium,2028,68.03
+Morocco,Government,Small,2028,78.72
+Morocco,Healthcare,Large,2028,97.62
+Morocco,Healthcare,Medium,2028,98.36
+Morocco,Healthcare,Small,2028,69.38
+Morocco,Legal,Large,2028,82.08
+Morocco,Legal,Medium,2028,85.41
+Morocco,Legal,Small,2028,59.96
+Morocco,Manufacturing,Large,2028,82.11
+Morocco,Manufacturing,Medium,2028,69.91
+Morocco,Manufacturing,Small,2028,99.0
+Morocco,Media & Entertainment,Large,2028,87.97
+Morocco,Media & Entertainment,Medium,2028,84.23
+Morocco,Media & Entertainment,Small,2028,61.28
+Morocco,Retail,Large,2028,52.99
+Morocco,Retail,Medium,2028,54.61
+Morocco,Retail,Small,2028,97.28
+Morocco,Technology,Large,2028,97.76
+Morocco,Technology,Medium,2028,68.18
+Morocco,Technology,Small,2028,41.43
+Netherlands,Agriculture,Large,2028,62.63
+Netherlands,Agriculture,Medium,2028,52.01
+Netherlands,Agriculture,Small,2028,99.25
+Netherlands,Automotive,Large,2028,97.01
+Netherlands,Automotive,Medium,2028,94.0
+Netherlands,Automotive,Small,2028,97.29
+Netherlands,Education,Large,2028,96.41
+Netherlands,Education,Medium,2028,96.46
+Netherlands,Education,Small,2028,97.3
+Netherlands,Financial Services,Large,2028,96.94
+Netherlands,Financial Services,Medium,2028,96.96
+Netherlands,Financial Services,Small,2028,97.28
+Netherlands,Gaming,Large,2028,97.03
+Netherlands,Gaming,Medium,2028,93.83
+Netherlands,Gaming,Small,2028,97.43
+Netherlands,Government,Large,2028,97.02
+Netherlands,Government,Medium,2028,68.21
+Netherlands,Government,Small,2028,83.49
+Netherlands,Healthcare,Large,2028,96.93
+Netherlands,Healthcare,Medium,2028,87.34
+Netherlands,Healthcare,Small,2028,80.77
+Netherlands,Legal,Large,2028,93.51
+Netherlands,Legal,Medium,2028,97.37
+Netherlands,Legal,Small,2028,79.28
+Netherlands,Manufacturing,Large,2028,97.09
+Netherlands,Manufacturing,Medium,2028,93.83
+Netherlands,Manufacturing,Small,2028,97.06
+Netherlands,Media & Entertainment,Large,2028,96.96
+Netherlands,Media & Entertainment,Medium,2028,97.33
+Netherlands,Media & Entertainment,Small,2028,70.12
+Netherlands,Retail,Large,2028,97.0
+Netherlands,Retail,Medium,2028,88.36
+Netherlands,Retail,Small,2028,96.9
+Netherlands,Technology,Large,2028,96.79
+Netherlands,Technology,Medium,2028,96.98
+Netherlands,Technology,Small,2028,96.94
+Nigeria,Agriculture,Large,2028,79.1
+Nigeria,Agriculture,Medium,2028,83.53
+Nigeria,Agriculture,Small,2028,65.48
+Nigeria,Automotive,Large,2028,98.95
+Nigeria,Automotive,Medium,2028,99.21
+Nigeria,Automotive,Small,2028,99.4
+Nigeria,Education,Large,2028,97.97
+Nigeria,Education,Medium,2028,99.07
+Nigeria,Education,Small,2028,61.82
+Nigeria,Financial Services,Large,2028,98.9
+Nigeria,Financial Services,Medium,2028,28.25
+Nigeria,Financial Services,Small,2028,60.6
+Nigeria,Gaming,Large,2028,97.49
+Nigeria,Gaming,Medium,2028,98.98
+Nigeria,Gaming,Small,2028,47.48
+Nigeria,Government,Large,2028,96.47
+Nigeria,Government,Medium,2028,97.39
+Nigeria,Government,Small,2028,67.85
+Nigeria,Healthcare,Large,2028,96.27
+Nigeria,Healthcare,Medium,2028,84.65
+Nigeria,Healthcare,Small,2028,98.26
+Nigeria,Legal,Large,2028,99.5
+Nigeria,Legal,Medium,2028,76.9
+Nigeria,Legal,Small,2028,55.66
+Nigeria,Manufacturing,Large,2028,98.72
+Nigeria,Manufacturing,Medium,2028,83.96
+Nigeria,Manufacturing,Small,2028,90.04
+Nigeria,Media & Entertainment,Large,2028,98.3
+Nigeria,Media & Entertainment,Medium,2028,73.97
+Nigeria,Media & Entertainment,Small,2028,98.36
+Nigeria,Retail,Large,2028,66.0
+Nigeria,Retail,Medium,2028,37.04
+Nigeria,Retail,Small,2028,67.26
+Nigeria,Technology,Large,2028,91.03
+Nigeria,Technology,Medium,2028,99.2
+Nigeria,Technology,Small,2028,67.11
+Singapore,Agriculture,Large,2028,83.96
+Singapore,Agriculture,Medium,2028,69.31
+Singapore,Agriculture,Small,2028,85.64
+Singapore,Automotive,Large,2028,96.94
+Singapore,Automotive,Medium,2028,96.28
+Singapore,Automotive,Small,2028,72.97
+Singapore,Education,Large,2028,93.39
+Singapore,Education,Medium,2028,96.8
+Singapore,Education,Small,2028,96.74
+Singapore,Financial Services,Large,2028,96.93
+Singapore,Financial Services,Medium,2028,96.95
+Singapore,Financial Services,Small,2028,97.38
+Singapore,Gaming,Large,2028,96.95
+Singapore,Gaming,Medium,2028,91.24
+Singapore,Gaming,Small,2028,95.58
+Singapore,Government,Large,2028,93.64
+Singapore,Government,Medium,2028,97.39
+Singapore,Government,Small,2028,90.35
+Singapore,Healthcare,Large,2028,96.95
+Singapore,Healthcare,Medium,2028,93.72
+Singapore,Healthcare,Small,2028,96.68
+Singapore,Legal,Large,2028,93.59
+Singapore,Legal,Medium,2028,97.7
+Singapore,Legal,Small,2028,98.94
+Singapore,Manufacturing,Large,2028,96.79
+Singapore,Manufacturing,Medium,2028,93.83
+Singapore,Manufacturing,Small,2028,97.78
+Singapore,Media & Entertainment,Large,2028,97.04
+Singapore,Media & Entertainment,Medium,2028,93.86
+Singapore,Media & Entertainment,Small,2028,97.04
+Singapore,Retail,Large,2028,96.35
+Singapore,Retail,Medium,2028,94.03
+Singapore,Retail,Small,2028,79.02
+Singapore,Technology,Large,2028,97.02
+Singapore,Technology,Medium,2028,96.94
+Singapore,Technology,Small,2028,86.67
+South Africa,Agriculture,Large,2028,96.39
+South Africa,Agriculture,Medium,2028,70.62
+South Africa,Agriculture,Small,2028,65.36
+South Africa,Automotive,Large,2028,64.35
+South Africa,Automotive,Medium,2028,96.98
+South Africa,Automotive,Small,2028,98.92
+South Africa,Education,Large,2028,79.56
+South Africa,Education,Medium,2028,11.6
+South Africa,Education,Small,2028,74.12
+South Africa,Financial Services,Large,2028,97.33
+South Africa,Financial Services,Medium,2028,97.18
+South Africa,Financial Services,Small,2028,32.88
+South Africa,Gaming,Large,2028,97.37
+South Africa,Gaming,Medium,2028,97.31
+South Africa,Gaming,Small,2028,96.92
+South Africa,Government,Large,2028,59.83
+South Africa,Government,Medium,2028,71.85
+South Africa,Government,Small,2028,72.76
+South Africa,Healthcare,Large,2028,64.4
+South Africa,Healthcare,Medium,2028,87.13
+South Africa,Healthcare,Small,2028,83.03
+South Africa,Legal,Large,2028,98.01
+South Africa,Legal,Medium,2028,42.09
+South Africa,Legal,Small,2028,23.57
+South Africa,Manufacturing,Large,2028,96.79
+South Africa,Manufacturing,Medium,2028,98.05
+South Africa,Manufacturing,Small,2028,99.3
+South Africa,Media & Entertainment,Large,2028,95.92
+South Africa,Media & Entertainment,Medium,2028,92.38
+South Africa,Media & Entertainment,Small,2028,80.25
+South Africa,Retail,Large,2028,96.77
+South Africa,Retail,Medium,2028,95.93
+South Africa,Retail,Small,2028,99.5
+South Africa,Technology,Large,2028,93.58
+South Africa,Technology,Medium,2028,97.09
+South Africa,Technology,Small,2028,65.93
+South Korea,Agriculture,Large,2028,71.34
+South Korea,Agriculture,Medium,2028,76.35
+South Korea,Agriculture,Small,2028,77.76
+South Korea,Automotive,Large,2028,96.93
+South Korea,Automotive,Medium,2028,97.04
+South Korea,Automotive,Small,2028,72.86
+South Korea,Education,Large,2028,93.03
+South Korea,Education,Medium,2028,96.82
+South Korea,Education,Small,2028,60.72
+South Korea,Financial Services,Large,2028,96.98
+South Korea,Financial Services,Medium,2028,93.52
+South Korea,Financial Services,Small,2028,70.41
+South Korea,Gaming,Large,2028,96.97
+South Korea,Gaming,Medium,2028,97.07
+South Korea,Gaming,Small,2028,92.77
+South Korea,Government,Large,2028,80.96
+South Korea,Government,Medium,2028,98.14
+South Korea,Government,Small,2028,81.61
+South Korea,Healthcare,Large,2028,97.01
+South Korea,Healthcare,Medium,2028,96.95
+South Korea,Healthcare,Small,2028,97.34
+South Korea,Legal,Large,2028,93.66
+South Korea,Legal,Medium,2028,57.3
+South Korea,Legal,Small,2028,80.74
+South Korea,Manufacturing,Large,2028,96.94
+South Korea,Manufacturing,Medium,2028,97.05
+South Korea,Manufacturing,Small,2028,64.92
+South Korea,Media & Entertainment,Large,2028,96.97
+South Korea,Media & Entertainment,Medium,2028,96.97
+South Korea,Media & Entertainment,Small,2028,97.32
+South Korea,Retail,Large,2028,96.33
+South Korea,Retail,Medium,2028,97.07
+South Korea,Retail,Small,2028,69.45
+South Korea,Technology,Large,2028,97.01
+South Korea,Technology,Medium,2028,93.72
+South Korea,Technology,Small,2028,96.99
+Sweden,Agriculture,Large,2028,98.34
+Sweden,Agriculture,Medium,2028,63.87
+Sweden,Agriculture,Small,2028,35.83
+Sweden,Automotive,Large,2028,96.93
+Sweden,Automotive,Medium,2028,96.17
+Sweden,Automotive,Small,2028,97.31
+Sweden,Education,Large,2028,96.56
+Sweden,Education,Medium,2028,97.47
+Sweden,Education,Small,2028,64.67
+Sweden,Financial Services,Large,2028,97.01
+Sweden,Financial Services,Medium,2028,97.09
+Sweden,Financial Services,Small,2028,97.0
+Sweden,Gaming,Large,2028,96.79
+Sweden,Gaming,Medium,2028,96.94
+Sweden,Gaming,Small,2028,96.97
+Sweden,Government,Large,2028,97.45
+Sweden,Government,Medium,2028,84.63
+Sweden,Government,Small,2028,89.91
+Sweden,Healthcare,Large,2028,97.0
+Sweden,Healthcare,Medium,2028,96.27
+Sweden,Healthcare,Small,2028,96.74
+Sweden,Legal,Large,2028,96.3
+Sweden,Legal,Medium,2028,96.96
+Sweden,Legal,Small,2028,58.89
+Sweden,Manufacturing,Large,2028,96.99
+Sweden,Manufacturing,Medium,2028,93.76
+Sweden,Manufacturing,Small,2028,85.55
+Sweden,Media & Entertainment,Large,2028,97.01
+Sweden,Media & Entertainment,Medium,2028,97.33
+Sweden,Media & Entertainment,Small,2028,77.81
+Sweden,Retail,Large,2028,97.01
+Sweden,Retail,Medium,2028,96.91
+Sweden,Retail,Small,2028,96.92
+Sweden,Technology,Large,2028,96.97
+Sweden,Technology,Medium,2028,97.07
+Sweden,Technology,Small,2028,97.31
+United Kingdom,Agriculture,Large,2028,96.71
+United Kingdom,Agriculture,Medium,2028,92.61
+United Kingdom,Agriculture,Small,2028,90.97
+United Kingdom,Automotive,Large,2028,96.96
+United Kingdom,Automotive,Medium,2028,96.97
+United Kingdom,Automotive,Small,2028,97.05
+United Kingdom,Education,Large,2028,93.31
+United Kingdom,Education,Medium,2028,92.4
+United Kingdom,Education,Small,2028,97.34
+United Kingdom,Financial Services,Large,2028,97.07
+United Kingdom,Financial Services,Medium,2028,96.32
+United Kingdom,Financial Services,Small,2028,97.37
+United Kingdom,Gaming,Large,2028,96.97
+United Kingdom,Gaming,Medium,2028,96.95
+United Kingdom,Gaming,Small,2028,97.48
+United Kingdom,Government,Large,2028,93.71
+United Kingdom,Government,Medium,2028,87.63
+United Kingdom,Government,Small,2028,96.36
+United Kingdom,Healthcare,Large,2028,96.94
+United Kingdom,Healthcare,Medium,2028,93.54
+United Kingdom,Healthcare,Small,2028,97.39
+United Kingdom,Legal,Large,2028,81.79
+United Kingdom,Legal,Medium,2028,94.63
+United Kingdom,Legal,Small,2028,81.64
+United Kingdom,Manufacturing,Large,2028,96.95
+United Kingdom,Manufacturing,Medium,2028,97.1
+United Kingdom,Manufacturing,Small,2028,97.41
+United Kingdom,Media & Entertainment,Large,2028,96.92
+United Kingdom,Media & Entertainment,Medium,2028,93.69
+United Kingdom,Media & Entertainment,Small,2028,98.01
+United Kingdom,Retail,Large,2028,96.94
+United Kingdom,Retail,Medium,2028,93.63
+United Kingdom,Retail,Small,2028,94.82
+United Kingdom,Technology,Large,2028,97.12
+United Kingdom,Technology,Medium,2028,83.74
+United Kingdom,Technology,Small,2028,88.27
+United States,Agriculture,Large,2028,97.07
+United States,Agriculture,Medium,2028,99.23
+United States,Agriculture,Small,2028,71.24
+United States,Automotive,Large,2028,96.98
+United States,Automotive,Medium,2028,97.05
+United States,Automotive,Small,2028,97.33
+United States,Education,Large,2028,93.13
+United States,Education,Medium,2028,86.11
+United States,Education,Small,2028,97.24
+United States,Financial Services,Large,2028,96.92
+United States,Financial Services,Medium,2028,96.28
+United States,Financial Services,Small,2028,72.68
+United States,Gaming,Large,2028,96.97
+United States,Gaming,Medium,2028,96.28
+United States,Gaming,Small,2028,97.06
+United States,Government,Large,2028,93.58
+United States,Government,Medium,2028,64.18
+United States,Government,Small,2028,35.59
+United States,Healthcare,Large,2028,96.95
+United States,Healthcare,Medium,2028,93.75
+United States,Healthcare,Small,2028,93.61
+United States,Legal,Large,2028,96.29
+United States,Legal,Medium,2028,93.68
+United States,Legal,Small,2028,41.79
+United States,Manufacturing,Large,2028,96.98
+United States,Manufacturing,Medium,2028,96.17
+United States,Manufacturing,Small,2028,97.59
+United States,Media & Entertainment,Large,2028,96.98
+United States,Media & Entertainment,Medium,2028,97.1
+United States,Media & Entertainment,Small,2028,97.04
+United States,Retail,Large,2028,96.29
+United States,Retail,Medium,2028,94.03
+United States,Retail,Small,2028,97.77
+United States,Technology,Large,2028,96.85
+United States,Technology,Medium,2028,96.97
+United States,Technology,Small,2028,88.76
+Australia,Agriculture,Large,2029,37.59
+Australia,Agriculture,Medium,2029,83.02
+Australia,Agriculture,Small,2029,73.73
+Australia,Automotive,Large,2029,97.06
+Australia,Automotive,Medium,2029,93.83
+Australia,Automotive,Small,2029,78.36
+Australia,Education,Large,2029,93.1
+Australia,Education,Medium,2029,96.57
+Australia,Education,Small,2029,93.04
+Australia,Financial Services,Large,2029,96.98
+Australia,Financial Services,Medium,2029,96.93
+Australia,Financial Services,Small,2029,93.75
+Australia,Gaming,Large,2029,93.61
+Australia,Gaming,Medium,2029,96.95
+Australia,Gaming,Small,2029,97.01
+Australia,Government,Large,2029,92.32
+Australia,Government,Medium,2029,71.82
+Australia,Government,Small,2029,98.49
+Australia,Healthcare,Large,2029,96.26
+Australia,Healthcare,Medium,2029,92.62
+Australia,Healthcare,Small,2029,97.31
+Australia,Legal,Large,2029,93.59
+Australia,Legal,Medium,2029,97.09
+Australia,Legal,Small,2029,74.1
+Australia,Manufacturing,Large,2029,91.5
+Australia,Manufacturing,Medium,2029,93.63
+Australia,Manufacturing,Small,2029,69.72
+Australia,Media & Entertainment,Large,2029,87.76
+Australia,Media & Entertainment,Medium,2029,97.0
+Australia,Media & Entertainment,Small,2029,97.01
+Australia,Retail,Large,2029,91.62
+Australia,Retail,Medium,2029,97.02
+Australia,Retail,Small,2029,76.21
+Australia,Technology,Large,2029,97.04
+Australia,Technology,Medium,2029,93.36
+Australia,Technology,Small,2029,96.97
+Brazil,Agriculture,Large,2029,83.0
+Brazil,Agriculture,Medium,2029,54.69
+Brazil,Agriculture,Small,2029,70.45
+Brazil,Automotive,Large,2029,96.26
+Brazil,Automotive,Medium,2029,97.68
+Brazil,Automotive,Small,2029,83.09
+Brazil,Education,Large,2029,93.42
+Brazil,Education,Medium,2029,38.98
+Brazil,Education,Small,2029,96.64
+Brazil,Financial Services,Large,2029,90.79
+Brazil,Financial Services,Medium,2029,96.59
+Brazil,Financial Services,Small,2029,93.39
+Brazil,Gaming,Large,2029,96.37
+Brazil,Gaming,Medium,2029,97.45
+Brazil,Gaming,Small,2029,32.06
+Brazil,Government,Large,2029,97.74
+Brazil,Government,Medium,2029,97.91
+Brazil,Government,Small,2029,73.35
+Brazil,Healthcare,Large,2029,91.71
+Brazil,Healthcare,Medium,2029,78.42
+Brazil,Healthcare,Small,2029,97.0
+Brazil,Legal,Large,2029,97.4
+Brazil,Legal,Medium,2029,72.76
+Brazil,Legal,Small,2029,36.98
+Brazil,Manufacturing,Large,2029,96.92
+Brazil,Manufacturing,Medium,2029,96.93
+Brazil,Manufacturing,Small,2029,83.15
+Brazil,Media & Entertainment,Large,2029,93.72
+Brazil,Media & Entertainment,Medium,2029,93.73
+Brazil,Media & Entertainment,Small,2029,97.77
+Brazil,Retail,Large,2029,91.02
+Brazil,Retail,Medium,2029,97.38
+Brazil,Retail,Small,2029,97.79
+Brazil,Technology,Large,2029,96.22
+Brazil,Technology,Medium,2029,93.36
+Brazil,Technology,Small,2029,94.37
+Canada,Agriculture,Large,2029,94.06
+Canada,Agriculture,Medium,2029,97.41
+Canada,Agriculture,Small,2029,97.04
+Canada,Automotive,Large,2029,96.79
+Canada,Automotive,Medium,2029,96.3
+Canada,Automotive,Small,2029,97.06
+Canada,Education,Large,2029,89.19
+Canada,Education,Medium,2029,82.97
+Canada,Education,Small,2029,58.19
+Canada,Financial Services,Large,2029,96.97
+Canada,Financial Services,Medium,2029,97.03
+Canada,Financial Services,Small,2029,97.11
+Canada,Gaming,Large,2029,96.81
+Canada,Gaming,Medium,2029,96.98
+Canada,Gaming,Small,2029,96.98
+Canada,Government,Large,2029,97.04
+Canada,Government,Medium,2029,96.86
+Canada,Government,Small,2029,88.19
+Canada,Healthcare,Large,2029,96.98
+Canada,Healthcare,Medium,2029,93.6
+Canada,Healthcare,Small,2029,96.99
+Canada,Legal,Large,2029,97.05
+Canada,Legal,Medium,2029,81.67
+Canada,Legal,Small,2029,82.16
+Canada,Manufacturing,Large,2029,97.09
+Canada,Manufacturing,Medium,2029,90.96
+Canada,Manufacturing,Small,2029,85.17
+Canada,Media & Entertainment,Large,2029,96.83
+Canada,Media & Entertainment,Medium,2029,96.97
+Canada,Media & Entertainment,Small,2029,93.63
+Canada,Retail,Large,2029,97.34
+Canada,Retail,Medium,2029,97.04
+Canada,Retail,Small,2029,57.4
+Canada,Technology,Large,2029,93.46
+Canada,Technology,Medium,2029,93.62
+Canada,Technology,Small,2029,93.51
+China,Agriculture,Large,2029,97.21
+China,Agriculture,Medium,2029,52.7
+China,Agriculture,Small,2029,97.3
+China,Automotive,Large,2029,96.98
+China,Automotive,Medium,2029,96.87
+China,Automotive,Small,2029,97.07
+China,Education,Large,2029,90.91
+China,Education,Medium,2029,63.46
+China,Education,Small,2029,83.7
+China,Financial Services,Large,2029,96.86
+China,Financial Services,Medium,2029,97.04
+China,Financial Services,Small,2029,96.85
+China,Gaming,Large,2029,96.91
+China,Gaming,Medium,2029,96.09
+China,Gaming,Small,2029,71.07
+China,Government,Large,2029,72.79
+China,Government,Medium,2029,84.79
+China,Government,Small,2029,97.5
+China,Healthcare,Large,2029,96.97
+China,Healthcare,Medium,2029,93.43
+China,Healthcare,Small,2029,96.92
+China,Legal,Large,2029,93.55
+China,Legal,Medium,2029,97.05
+China,Legal,Small,2029,73.14
+China,Manufacturing,Large,2029,96.98
+China,Manufacturing,Medium,2029,97.03
+China,Manufacturing,Small,2029,96.79
+China,Media & Entertainment,Large,2029,96.38
+China,Media & Entertainment,Medium,2029,90.91
+China,Media & Entertainment,Small,2029,62.68
+China,Retail,Large,2029,93.4
+China,Retail,Medium,2029,96.25
+China,Retail,Small,2029,97.01
+China,Technology,Large,2029,96.97
+China,Technology,Medium,2029,97.02
+China,Technology,Small,2029,97.17
+Egypt,Agriculture,Large,2029,98.5
+Egypt,Agriculture,Medium,2029,98.01
+Egypt,Agriculture,Small,2029,97.61
+Egypt,Automotive,Large,2029,97.01
+Egypt,Automotive,Medium,2029,66.81
+Egypt,Automotive,Small,2029,97.65
+Egypt,Education,Large,2029,93.13
+Egypt,Education,Medium,2029,96.43
+Egypt,Education,Small,2029,36.21
+Egypt,Financial Services,Large,2029,84.4
+Egypt,Financial Services,Medium,2029,71.85
+Egypt,Financial Services,Small,2029,32.39
+Egypt,Gaming,Large,2029,91.3
+Egypt,Gaming,Medium,2029,93.63
+Egypt,Gaming,Small,2029,79.74
+Egypt,Government,Large,2029,43.95
+Egypt,Government,Medium,2029,45.1
+Egypt,Government,Small,2029,97.63
+Egypt,Healthcare,Large,2029,78.07
+Egypt,Healthcare,Medium,2029,96.29
+Egypt,Healthcare,Small,2029,71.73
+Egypt,Legal,Large,2029,93.46
+Egypt,Legal,Medium,2029,98.18
+Egypt,Legal,Small,2029,91.32
+Egypt,Manufacturing,Large,2029,96.81
+Egypt,Manufacturing,Medium,2029,82.13
+Egypt,Manufacturing,Small,2029,90.12
+Egypt,Media & Entertainment,Large,2029,96.93
+Egypt,Media & Entertainment,Medium,2029,89.58
+Egypt,Media & Entertainment,Small,2029,72.79
+Egypt,Retail,Large,2029,96.81
+Egypt,Retail,Medium,2029,71.78
+Egypt,Retail,Small,2029,38.92
+Egypt,Technology,Large,2029,96.37
+Egypt,Technology,Medium,2029,93.72
+Egypt,Technology,Small,2029,81.19
+France,Agriculture,Large,2029,88.59
+France,Agriculture,Medium,2029,97.04
+France,Agriculture,Small,2029,76.4
+France,Automotive,Large,2029,96.97
+France,Automotive,Medium,2029,90.98
+France,Automotive,Small,2029,97.47
+France,Education,Large,2029,95.73
+France,Education,Medium,2029,97.23
+France,Education,Small,2029,66.91
+France,Financial Services,Large,2029,96.96
+France,Financial Services,Medium,2029,88.18
+France,Financial Services,Small,2029,97.08
+France,Gaming,Large,2029,96.95
+France,Gaming,Medium,2029,96.87
+France,Gaming,Small,2029,76.4
+France,Government,Large,2029,90.91
+France,Government,Medium,2029,93.73
+France,Government,Small,2029,91.03
+France,Healthcare,Large,2029,97.02
+France,Healthcare,Medium,2029,93.6
+France,Healthcare,Small,2029,88.01
+France,Legal,Large,2029,93.63
+France,Legal,Medium,2029,56.64
+France,Legal,Small,2029,50.58
+France,Manufacturing,Large,2029,96.96
+France,Manufacturing,Medium,2029,96.93
+France,Manufacturing,Small,2029,93.83
+France,Media & Entertainment,Large,2029,96.86
+France,Media & Entertainment,Medium,2029,85.52
+France,Media & Entertainment,Small,2029,57.14
+France,Retail,Large,2029,91.59
+France,Retail,Medium,2029,88.26
+France,Retail,Small,2029,65.86
+France,Technology,Large,2029,96.95
+France,Technology,Medium,2029,96.33
+France,Technology,Small,2029,93.6
+Germany,Agriculture,Large,2029,93.66
+Germany,Agriculture,Medium,2029,97.11
+Germany,Agriculture,Small,2029,97.51
+Germany,Automotive,Large,2029,96.95
+Germany,Automotive,Medium,2029,96.27
+Germany,Automotive,Small,2029,77.75
+Germany,Education,Large,2029,89.73
+Germany,Education,Medium,2029,82.04
+Germany,Education,Small,2029,96.67
+Germany,Financial Services,Large,2029,97.04
+Germany,Financial Services,Medium,2029,91.68
+Germany,Financial Services,Small,2029,73.84
+Germany,Gaming,Large,2029,97.08
+Germany,Gaming,Medium,2029,96.02
+Germany,Gaming,Small,2029,93.59
+Germany,Government,Large,2029,93.73
+Germany,Government,Medium,2029,76.99
+Germany,Government,Small,2029,61.3
+Germany,Healthcare,Large,2029,97.05
+Germany,Healthcare,Medium,2029,93.6
+Germany,Healthcare,Small,2029,91.36
+Germany,Legal,Large,2029,91.69
+Germany,Legal,Medium,2029,87.66
+Germany,Legal,Small,2029,70.91
+Germany,Manufacturing,Large,2029,97.11
+Germany,Manufacturing,Medium,2029,93.69
+Germany,Manufacturing,Small,2029,97.08
+Germany,Media & Entertainment,Large,2029,96.98
+Germany,Media & Entertainment,Medium,2029,96.22
+Germany,Media & Entertainment,Small,2029,68.87
+Germany,Retail,Large,2029,93.66
+Germany,Retail,Medium,2029,93.43
+Germany,Retail,Small,2029,96.33
+Germany,Technology,Large,2029,97.09
+Germany,Technology,Medium,2029,96.91
+Germany,Technology,Small,2029,97.47
+India,Agriculture,Large,2029,85.62
+India,Agriculture,Medium,2029,51.43
+India,Agriculture,Small,2029,74.0
+India,Automotive,Large,2029,96.27
+India,Automotive,Medium,2029,93.4
+India,Automotive,Small,2029,78.24
+India,Education,Large,2029,88.77
+India,Education,Medium,2029,58.52
+India,Education,Small,2029,97.91
+India,Financial Services,Large,2029,96.95
+India,Financial Services,Medium,2029,93.45
+India,Financial Services,Small,2029,83.6
+India,Gaming,Large,2029,91.36
+India,Gaming,Medium,2029,96.93
+India,Gaming,Small,2029,97.33
+India,Government,Large,2029,93.53
+India,Government,Medium,2029,31.37
+India,Government,Small,2029,41.5
+India,Healthcare,Large,2029,96.35
+India,Healthcare,Medium,2029,97.25
+India,Healthcare,Small,2029,97.26
+India,Legal,Large,2029,97.08
+India,Legal,Medium,2029,90.36
+India,Legal,Small,2029,93.17
+India,Manufacturing,Large,2029,96.92
+India,Manufacturing,Medium,2029,97.06
+India,Manufacturing,Small,2029,51.25
+India,Media & Entertainment,Large,2029,91.33
+India,Media & Entertainment,Medium,2029,71.7
+India,Media & Entertainment,Small,2029,49.5
+India,Retail,Large,2029,96.86
+India,Retail,Medium,2029,96.11
+India,Retail,Small,2029,93.17
+India,Technology,Large,2029,96.99
+India,Technology,Medium,2029,97.04
+India,Technology,Small,2029,94.1
+Israel,Agriculture,Large,2029,97.0
+Israel,Agriculture,Medium,2029,83.81
+Israel,Agriculture,Small,2029,97.68
+Israel,Automotive,Large,2029,96.77
+Israel,Automotive,Medium,2029,97.0
+Israel,Automotive,Small,2029,90.86
+Israel,Education,Large,2029,91.62
+Israel,Education,Medium,2029,93.2
+Israel,Education,Small,2029,96.64
+Israel,Financial Services,Large,2029,96.96
+Israel,Financial Services,Medium,2029,97.02
+Israel,Financial Services,Small,2029,93.56
+Israel,Gaming,Large,2029,97.02
+Israel,Gaming,Medium,2029,96.8
+Israel,Gaming,Small,2029,91.54
+Israel,Government,Large,2029,91.81
+Israel,Government,Medium,2029,93.89
+Israel,Government,Small,2029,97.05
+Israel,Healthcare,Large,2029,96.16
+Israel,Healthcare,Medium,2029,97.01
+Israel,Healthcare,Small,2029,96.98
+Israel,Legal,Large,2029,91.73
+Israel,Legal,Medium,2029,96.99
+Israel,Legal,Small,2029,93.62
+Israel,Manufacturing,Large,2029,97.06
+Israel,Manufacturing,Medium,2029,96.97
+Israel,Manufacturing,Small,2029,94.23
+Israel,Media & Entertainment,Large,2029,97.01
+Israel,Media & Entertainment,Medium,2029,93.5
+Israel,Media & Entertainment,Small,2029,96.31
+Israel,Retail,Large,2029,97.01
+Israel,Retail,Medium,2029,90.89
+Israel,Retail,Small,2029,71.14
+Israel,Technology,Large,2029,96.96
+Israel,Technology,Medium,2029,97.0
+Israel,Technology,Small,2029,96.29
+Japan,Agriculture,Large,2029,93.47
+Japan,Agriculture,Medium,2029,97.63
+Japan,Agriculture,Small,2029,93.65
+Japan,Automotive,Large,2029,93.66
+Japan,Automotive,Medium,2029,90.99
+Japan,Automotive,Small,2029,70.41
+Japan,Education,Large,2029,96.85
+Japan,Education,Medium,2029,93.02
+Japan,Education,Small,2029,97.5
+Japan,Financial Services,Large,2029,96.77
+Japan,Financial Services,Medium,2029,96.06
+Japan,Financial Services,Small,2029,81.45
+Japan,Gaming,Large,2029,97.01
+Japan,Gaming,Medium,2029,90.9
+Japan,Gaming,Small,2029,89.9
+Japan,Government,Large,2029,93.65
+Japan,Government,Medium,2029,79.75
+Japan,Government,Small,2029,98.03
+Japan,Healthcare,Large,2029,97.0
+Japan,Healthcare,Medium,2029,97.09
+Japan,Healthcare,Small,2029,97.81
+Japan,Legal,Large,2029,78.03
+Japan,Legal,Medium,2029,97.68
+Japan,Legal,Small,2029,43.77
+Japan,Manufacturing,Large,2029,97.04
+Japan,Manufacturing,Medium,2029,85.41
+Japan,Manufacturing,Small,2029,97.31
+Japan,Media & Entertainment,Large,2029,97.03
+Japan,Media & Entertainment,Medium,2029,88.83
+Japan,Media & Entertainment,Small,2029,83.9
+Japan,Retail,Large,2029,96.26
+Japan,Retail,Medium,2029,93.02
+Japan,Retail,Small,2029,97.77
+Japan,Technology,Large,2029,97.05
+Japan,Technology,Medium,2029,93.53
+Japan,Technology,Small,2029,93.59
+Mexico,Agriculture,Large,2029,53.59
+Mexico,Agriculture,Medium,2029,15.94
+Mexico,Agriculture,Small,2029,98.65
+Mexico,Automotive,Large,2029,93.86
+Mexico,Automotive,Medium,2029,97.27
+Mexico,Automotive,Small,2029,71.29
+Mexico,Education,Large,2029,96.53
+Mexico,Education,Medium,2029,95.74
+Mexico,Education,Small,2029,53.89
+Mexico,Financial Services,Large,2029,96.15
+Mexico,Financial Services,Medium,2029,93.38
+Mexico,Financial Services,Small,2029,97.45
+Mexico,Gaming,Large,2029,96.2
+Mexico,Gaming,Medium,2029,97.26
+Mexico,Gaming,Small,2029,78.2
+Mexico,Government,Large,2029,98.03
+Mexico,Government,Medium,2029,93.72
+Mexico,Government,Small,2029,98.33
+Mexico,Healthcare,Large,2029,92.24
+Mexico,Healthcare,Medium,2029,49.81
+Mexico,Healthcare,Small,2029,61.21
+Mexico,Legal,Large,2029,93.76
+Mexico,Legal,Medium,2029,62.54
+Mexico,Legal,Small,2029,67.55
+Mexico,Manufacturing,Large,2029,97.43
+Mexico,Manufacturing,Medium,2029,85.39
+Mexico,Manufacturing,Small,2029,97.31
+Mexico,Media & Entertainment,Large,2029,97.01
+Mexico,Media & Entertainment,Medium,2029,97.63
+Mexico,Media & Entertainment,Small,2029,96.32
+Mexico,Retail,Large,2029,56.71
+Mexico,Retail,Medium,2029,97.67
+Mexico,Retail,Small,2029,35.75
+Mexico,Technology,Large,2029,91.82
+Mexico,Technology,Medium,2029,97.08
+Mexico,Technology,Small,2029,46.76
+Morocco,Agriculture,Large,2029,36.95
+Morocco,Agriculture,Medium,2029,30.01
+Morocco,Agriculture,Small,2029,49.35
+Morocco,Automotive,Large,2029,93.86
+Morocco,Automotive,Medium,2029,93.95
+Morocco,Automotive,Small,2029,40.41
+Morocco,Education,Large,2029,61.57
+Morocco,Education,Medium,2029,88.65
+Morocco,Education,Small,2029,63.1
+Morocco,Financial Services,Large,2029,83.14
+Morocco,Financial Services,Medium,2029,74.02
+Morocco,Financial Services,Small,2029,98.44
+Morocco,Gaming,Large,2029,93.43
+Morocco,Gaming,Medium,2029,97.12
+Morocco,Gaming,Small,2029,96.86
+Morocco,Government,Large,2029,88.7
+Morocco,Government,Medium,2029,74.12
+Morocco,Government,Small,2029,88.93
+Morocco,Healthcare,Large,2029,97.54
+Morocco,Healthcare,Medium,2029,98.64
+Morocco,Healthcare,Small,2029,75.81
+Morocco,Legal,Large,2029,88.6
+Morocco,Legal,Medium,2029,95.18
+Morocco,Legal,Small,2029,64.89
+Morocco,Manufacturing,Large,2029,88.11
+Morocco,Manufacturing,Medium,2029,76.31
+Morocco,Manufacturing,Small,2029,96.28
+Morocco,Media & Entertainment,Large,2029,94.27
+Morocco,Media & Entertainment,Medium,2029,94.51
+Morocco,Media & Entertainment,Small,2029,64.09
+Morocco,Retail,Large,2029,52.99
+Morocco,Retail,Medium,2029,55.89
+Morocco,Retail,Small,2029,98.83
+Morocco,Technology,Large,2029,97.07
+Morocco,Technology,Medium,2029,69.91
+Morocco,Technology,Small,2029,40.02
+Netherlands,Agriculture,Large,2029,61.54
+Netherlands,Agriculture,Medium,2029,49.19
+Netherlands,Agriculture,Small,2029,96.78
+Netherlands,Automotive,Large,2029,96.84
+Netherlands,Automotive,Medium,2029,91.73
+Netherlands,Automotive,Small,2029,96.13
+Netherlands,Education,Large,2029,96.37
+Netherlands,Education,Medium,2029,92.98
+Netherlands,Education,Small,2029,93.0
+Netherlands,Financial Services,Large,2029,96.98
+Netherlands,Financial Services,Medium,2029,96.86
+Netherlands,Financial Services,Small,2029,93.47
+Netherlands,Gaming,Large,2029,96.99
+Netherlands,Gaming,Medium,2029,91.74
+Netherlands,Gaming,Small,2029,97.02
+Netherlands,Government,Large,2029,93.62
+Netherlands,Government,Medium,2029,70.28
+Netherlands,Government,Small,2029,93.26
+Netherlands,Healthcare,Large,2029,96.93
+Netherlands,Healthcare,Medium,2029,91.46
+Netherlands,Healthcare,Small,2029,84.75
+Netherlands,Legal,Large,2029,90.86
+Netherlands,Legal,Medium,2029,96.97
+Netherlands,Legal,Small,2029,83.73
+Netherlands,Manufacturing,Large,2029,97.05
+Netherlands,Manufacturing,Medium,2029,91.61
+Netherlands,Manufacturing,Small,2029,93.79
+Netherlands,Media & Entertainment,Large,2029,96.95
+Netherlands,Media & Entertainment,Medium,2029,96.97
+Netherlands,Media & Entertainment,Small,2029,70.67
+Netherlands,Retail,Large,2029,96.95
+Netherlands,Retail,Medium,2029,93.47
+Netherlands,Retail,Small,2029,93.77
+Netherlands,Technology,Large,2029,96.79
+Netherlands,Technology,Medium,2029,97.03
+Netherlands,Technology,Small,2029,96.24
+Nigeria,Agriculture,Large,2029,89.66
+Nigeria,Agriculture,Medium,2029,93.75
+Nigeria,Agriculture,Small,2029,74.2
+Nigeria,Automotive,Large,2029,97.12
+Nigeria,Automotive,Medium,2029,96.34
+Nigeria,Automotive,Small,2029,97.1
+Nigeria,Education,Large,2029,98.27
+Nigeria,Education,Medium,2029,96.32
+Nigeria,Education,Small,2029,66.96
+Nigeria,Financial Services,Large,2029,96.95
+Nigeria,Financial Services,Medium,2029,21.83
+Nigeria,Financial Services,Small,2029,65.1
+Nigeria,Gaming,Large,2029,96.11
+Nigeria,Gaming,Medium,2029,96.27
+Nigeria,Gaming,Small,2029,48.7
+Nigeria,Government,Large,2029,98.9
+Nigeria,Government,Medium,2029,99.04
+Nigeria,Government,Small,2029,76.01
+Nigeria,Healthcare,Large,2029,97.94
+Nigeria,Healthcare,Medium,2029,93.18
+Nigeria,Healthcare,Small,2029,97.58
+Nigeria,Legal,Large,2029,97.76
+Nigeria,Legal,Medium,2029,85.72
+Nigeria,Legal,Small,2029,59.46
+Nigeria,Manufacturing,Large,2029,97.79
+Nigeria,Manufacturing,Medium,2029,93.23
+Nigeria,Manufacturing,Small,2029,97.82
+Nigeria,Media & Entertainment,Large,2029,93.45
+Nigeria,Media & Entertainment,Medium,2029,80.42
+Nigeria,Media & Entertainment,Small,2029,97.82
+Nigeria,Retail,Large,2029,69.76
+Nigeria,Retail,Medium,2029,33.39
+Nigeria,Retail,Small,2029,72.86
+Nigeria,Technology,Large,2029,96.93
+Nigeria,Technology,Medium,2029,97.09
+Nigeria,Technology,Small,2029,71.88
+Singapore,Agriculture,Large,2029,89.92
+Singapore,Agriculture,Medium,2029,73.13
+Singapore,Agriculture,Small,2029,94.96
+Singapore,Automotive,Large,2029,96.98
+Singapore,Automotive,Medium,2029,93.54
+Singapore,Automotive,Small,2029,73.6
+Singapore,Education,Large,2029,91.01
+Singapore,Education,Medium,2029,92.93
+Singapore,Education,Small,2029,97.23
+Singapore,Financial Services,Large,2029,96.98
+Singapore,Financial Services,Medium,2029,96.94
+Singapore,Financial Services,Small,2029,96.97
+Singapore,Gaming,Large,2029,96.81
+Singapore,Gaming,Medium,2029,94.87
+Singapore,Gaming,Small,2029,97.34
+Singapore,Government,Large,2029,90.95
+Singapore,Government,Medium,2029,93.48
+Singapore,Government,Small,2029,97.25
+Singapore,Healthcare,Large,2029,96.96
+Singapore,Healthcare,Medium,2029,91.52
+Singapore,Healthcare,Small,2029,97.42
+Singapore,Legal,Large,2029,90.95
+Singapore,Legal,Medium,2029,96.31
+Singapore,Legal,Small,2029,97.05
+Singapore,Manufacturing,Large,2029,96.79
+Singapore,Manufacturing,Medium,2029,91.77
+Singapore,Manufacturing,Small,2029,96.95
+Singapore,Media & Entertainment,Large,2029,96.91
+Singapore,Media & Entertainment,Medium,2029,91.66
+Singapore,Media & Entertainment,Small,2029,93.62
+Singapore,Retail,Large,2029,96.34
+Singapore,Retail,Medium,2029,91.75
+Singapore,Retail,Small,2029,83.3
+Singapore,Technology,Large,2029,97.02
+Singapore,Technology,Medium,2029,96.98
+Singapore,Technology,Small,2029,92.84
+South Africa,Agriculture,Large,2029,98.72
+South Africa,Agriculture,Medium,2029,77.41
+South Africa,Agriculture,Small,2029,73.01
+South Africa,Automotive,Large,2029,61.63
+South Africa,Automotive,Medium,2029,93.89
+South Africa,Automotive,Small,2029,96.79
+South Africa,Education,Large,2029,84.62
+South Africa,Education,Medium,2029,4.85
+South Africa,Education,Small,2029,83.41
+South Africa,Financial Services,Large,2029,93.25
+South Africa,Financial Services,Medium,2029,93.23
+South Africa,Financial Services,Small,2029,28.75
+South Africa,Gaming,Large,2029,96.52
+South Africa,Gaming,Medium,2029,93.46
+South Africa,Gaming,Small,2029,93.75
+South Africa,Government,Large,2029,62.95
+South Africa,Government,Medium,2029,78.94
+South Africa,Government,Small,2029,80.84
+South Africa,Healthcare,Large,2029,61.23
+South Africa,Healthcare,Medium,2029,92.86
+South Africa,Healthcare,Small,2029,92.11
+South Africa,Legal,Large,2029,97.64
+South Africa,Legal,Medium,2029,40.21
+South Africa,Legal,Small,2029,20.66
+South Africa,Manufacturing,Large,2029,93.72
+South Africa,Manufacturing,Medium,2029,97.5
+South Africa,Manufacturing,Small,2029,96.66
+South Africa,Media & Entertainment,Large,2029,93.23
+South Africa,Media & Entertainment,Medium,2029,97.19
+South Africa,Media & Entertainment,Small,2029,86.73
+South Africa,Retail,Large,2029,93.5
+South Africa,Retail,Medium,2029,97.92
+South Africa,Retail,Small,2029,96.84
+South Africa,Technology,Large,2029,91.48
+South Africa,Technology,Medium,2029,93.63
+South Africa,Technology,Small,2029,69.1
+South Korea,Agriculture,Large,2029,72.76
+South Korea,Agriculture,Medium,2029,82.23
+South Korea,Agriculture,Small,2029,87.71
+South Korea,Automotive,Large,2029,96.98
+South Korea,Automotive,Medium,2029,96.28
+South Korea,Automotive,Small,2029,72.31
+South Korea,Education,Large,2029,89.72
+South Korea,Education,Medium,2029,93.34
+South Korea,Education,Small,2029,63.72
+South Korea,Financial Services,Large,2029,97.06
+South Korea,Financial Services,Medium,2029,90.91
+South Korea,Financial Services,Small,2029,71.31
+South Korea,Gaming,Large,2029,97.01
+South Korea,Gaming,Medium,2029,96.97
+South Korea,Gaming,Small,2029,97.21
+South Korea,Government,Large,2029,85.45
+South Korea,Government,Medium,2029,97.04
+South Korea,Government,Small,2029,90.16
+South Korea,Healthcare,Large,2029,96.97
+South Korea,Healthcare,Medium,2029,96.98
+South Korea,Healthcare,Small,2029,97.42
+South Korea,Legal,Large,2029,91.73
+South Korea,Legal,Medium,2029,55.18
+South Korea,Legal,Small,2029,87.74
+South Korea,Manufacturing,Large,2029,96.99
+South Korea,Manufacturing,Medium,2029,93.59
+South Korea,Manufacturing,Small,2029,64.05
+South Korea,Media & Entertainment,Large,2029,97.02
+South Korea,Media & Entertainment,Medium,2029,96.29
+South Korea,Media & Entertainment,Small,2029,93.59
+South Korea,Retail,Large,2029,96.32
+South Korea,Retail,Medium,2029,96.29
+South Korea,Retail,Small,2029,72.49
+South Korea,Technology,Large,2029,97.03
+South Korea,Technology,Medium,2029,91.68
+South Korea,Technology,Small,2029,93.82
+Sweden,Agriculture,Large,2029,97.0
+Sweden,Agriculture,Medium,2029,67.62
+Sweden,Agriculture,Small,2029,33.84
+Sweden,Automotive,Large,2029,96.93
+Sweden,Automotive,Medium,2029,93.42
+Sweden,Automotive,Small,2029,93.69
+Sweden,Education,Large,2029,96.48
+Sweden,Education,Medium,2029,96.48
+Sweden,Education,Small,2029,67.01
+Sweden,Financial Services,Large,2029,97.01
+Sweden,Financial Services,Medium,2029,96.99
+Sweden,Financial Services,Small,2029,93.55
+Sweden,Gaming,Large,2029,96.81
+Sweden,Gaming,Medium,2029,96.76
+Sweden,Gaming,Small,2029,96.22
+Sweden,Government,Large,2029,93.62
+Sweden,Government,Medium,2029,93.3
+Sweden,Government,Small,2029,97.51
+Sweden,Healthcare,Large,2029,97.04
+Sweden,Healthcare,Medium,2029,96.28
+Sweden,Healthcare,Small,2029,93.48
+Sweden,Legal,Large,2029,93.35
+Sweden,Legal,Medium,2029,93.93
+Sweden,Legal,Small,2029,60.53
+Sweden,Manufacturing,Large,2029,96.99
+Sweden,Manufacturing,Medium,2029,91.59
+Sweden,Manufacturing,Small,2029,93.23
+Sweden,Media & Entertainment,Large,2029,96.96
+Sweden,Media & Entertainment,Medium,2029,97.12
+Sweden,Media & Entertainment,Small,2029,81.4
+Sweden,Retail,Large,2029,96.99
+Sweden,Retail,Medium,2029,93.52
+Sweden,Retail,Small,2029,93.88
+Sweden,Technology,Large,2029,96.97
+Sweden,Technology,Medium,2029,97.03
+Sweden,Technology,Small,2029,97.01
+United Kingdom,Agriculture,Large,2029,97.81
+United Kingdom,Agriculture,Medium,2029,97.77
+United Kingdom,Agriculture,Small,2029,97.48
+United Kingdom,Automotive,Large,2029,97.0
+United Kingdom,Automotive,Medium,2029,96.28
+United Kingdom,Automotive,Small,2029,96.31
+United Kingdom,Education,Large,2029,90.96
+United Kingdom,Education,Medium,2029,96.67
+United Kingdom,Education,Small,2029,93.29
+United Kingdom,Financial Services,Large,2029,97.12
+United Kingdom,Financial Services,Medium,2029,93.57
+United Kingdom,Financial Services,Small,2029,96.87
+United Kingdom,Gaming,Large,2029,96.97
+United Kingdom,Gaming,Medium,2029,96.95
+United Kingdom,Gaming,Small,2029,96.95
+United Kingdom,Government,Large,2029,90.94
+United Kingdom,Government,Medium,2029,93.24
+United Kingdom,Government,Small,2029,98.02
+United Kingdom,Healthcare,Large,2029,96.98
+United Kingdom,Healthcare,Medium,2029,91.49
+United Kingdom,Healthcare,Small,2029,97.36
+United Kingdom,Legal,Large,2029,84.79
+United Kingdom,Legal,Medium,2029,97.68
+United Kingdom,Legal,Small,2029,88.8
+United Kingdom,Manufacturing,Large,2029,96.99
+United Kingdom,Manufacturing,Medium,2029,97.01
+United Kingdom,Manufacturing,Small,2029,97.55
+United Kingdom,Media & Entertainment,Large,2029,96.92
+United Kingdom,Media & Entertainment,Medium,2029,91.62
+United Kingdom,Media & Entertainment,Small,2029,96.9
+United Kingdom,Retail,Large,2029,96.99
+United Kingdom,Retail,Medium,2029,90.97
+United Kingdom,Retail,Small,2029,97.45
+United Kingdom,Technology,Large,2029,97.16
+United Kingdom,Technology,Medium,2029,84.2
+United Kingdom,Technology,Small,2029,93.76
+United States,Agriculture,Large,2029,93.81
+United States,Agriculture,Medium,2029,97.48
+United States,Agriculture,Small,2029,76.68
+United States,Automotive,Large,2029,96.97
+United States,Automotive,Medium,2029,96.26
+United States,Automotive,Small,2029,93.53
+United States,Education,Large,2029,89.84
+United States,Education,Medium,2029,93.03
+United States,Education,Small,2029,97.21
+United States,Financial Services,Large,2029,96.96
+United States,Financial Services,Medium,2029,93.55
+United States,Financial Services,Small,2029,72.57
+United States,Gaming,Large,2029,97.01
+United States,Gaming,Medium,2029,93.53
+United States,Gaming,Small,2029,93.49
+United States,Government,Large,2029,90.9
+United States,Government,Medium,2029,63.13
+United States,Government,Small,2029,33.09
+United States,Healthcare,Large,2029,96.95
+United States,Healthcare,Medium,2029,91.7
+United States,Healthcare,Small,2029,90.59
+United States,Legal,Large,2029,93.65
+United States,Legal,Medium,2029,90.99
+United States,Legal,Small,2029,37.59
+United States,Manufacturing,Large,2029,96.96
+United States,Manufacturing,Medium,2029,93.47
+United States,Manufacturing,Small,2029,97.1
+United States,Media & Entertainment,Large,2029,96.98
+United States,Media & Entertainment,Medium,2029,96.93
+United States,Media & Entertainment,Small,2029,93.99
+United States,Retail,Large,2029,96.28
+United States,Retail,Medium,2029,91.7
+United States,Retail,Small,2029,97.01
+United States,Technology,Large,2029,96.16
+United States,Technology,Medium,2029,96.95
+United States,Technology,Small,2029,93.42
+Australia,Agriculture,Large,2030,33.92
+Australia,Agriculture,Medium,2030,90.75
+Australia,Agriculture,Small,2030,78.6
+Australia,Automotive,Large,2030,97.04
+Australia,Automotive,Medium,2030,91.77
+Australia,Automotive,Small,2030,81.53
+Australia,Education,Large,2030,89.81
+Australia,Education,Medium,2030,93.07
+Australia,Education,Small,2030,88.66
+Australia,Financial Services,Large,2030,97.02
+Australia,Financial Services,Medium,2030,96.24
+Australia,Financial Services,Small,2030,91.54
+Australia,Gaming,Large,2030,93.32
+Australia,Gaming,Medium,2030,96.25
+Australia,Gaming,Small,2030,93.6
+Australia,Government,Large,2030,97.11
+Australia,Government,Medium,2030,74.61
+Australia,Government,Small,2030,97.06
+Australia,Healthcare,Large,2030,96.91
+Australia,Healthcare,Medium,2030,97.03
+Australia,Healthcare,Small,2030,96.92
+Australia,Legal,Large,2030,97.4
+Australia,Legal,Medium,2030,93.7
+Australia,Legal,Small,2030,79.38
+Australia,Manufacturing,Large,2030,90.68
+Australia,Manufacturing,Medium,2030,91.0
+Australia,Manufacturing,Small,2030,72.98
+Australia,Media & Entertainment,Large,2030,92.96
+Australia,Media & Entertainment,Medium,2030,96.22
+Australia,Media & Entertainment,Small,2030,93.6
+Australia,Retail,Large,2030,90.77
+Australia,Retail,Medium,2030,96.33
+Australia,Retail,Small,2030,78.91
+Australia,Technology,Large,2030,96.99
+Australia,Technology,Medium,2030,93.17
+Australia,Technology,Small,2030,96.07
+Brazil,Agriculture,Large,2030,89.67
+Brazil,Agriculture,Medium,2030,56.53
+Brazil,Agriculture,Small,2030,76.36
+Brazil,Automotive,Large,2030,93.52
+Brazil,Automotive,Medium,2030,96.96
+Brazil,Automotive,Small,2030,90.69
+Brazil,Education,Large,2030,91.08
+Brazil,Education,Medium,2030,35.58
+Brazil,Education,Small,2030,93.44
+Brazil,Financial Services,Large,2030,89.87
+Brazil,Financial Services,Medium,2030,97.34
+Brazil,Financial Services,Small,2030,90.54
+Brazil,Gaming,Large,2030,93.63
+Brazil,Gaming,Medium,2030,97.02
+Brazil,Gaming,Small,2030,27.43
+Brazil,Government,Large,2030,96.82
+Brazil,Government,Medium,2030,96.86
+Brazil,Government,Small,2030,80.81
+Brazil,Healthcare,Large,2030,90.73
+Brazil,Healthcare,Medium,2030,81.85
+Brazil,Healthcare,Small,2030,93.63
+Brazil,Legal,Large,2030,93.54
+Brazil,Legal,Medium,2030,75.71
+Brazil,Legal,Small,2030,35.73
+Brazil,Manufacturing,Large,2030,93.4
+Brazil,Manufacturing,Medium,2030,97.39
+Brazil,Manufacturing,Small,2030,92.28
+Brazil,Media & Entertainment,Large,2030,91.32
+Brazil,Media & Entertainment,Medium,2030,91.55
+Brazil,Media & Entertainment,Small,2030,96.08
+Brazil,Retail,Large,2030,90.95
+Brazil,Retail,Medium,2030,97.07
+Brazil,Retail,Small,2030,96.95
+Brazil,Technology,Large,2030,93.43
+Brazil,Technology,Medium,2030,93.37
+Brazil,Technology,Small,2030,97.32
+Canada,Agriculture,Large,2030,91.8
+Canada,Agriculture,Medium,2030,93.51
+Canada,Agriculture,Small,2030,97.61
+Canada,Automotive,Large,2030,96.78
+Canada,Automotive,Medium,2030,93.55
+Canada,Automotive,Small,2030,96.23
+Canada,Education,Large,2030,85.45
+Canada,Education,Medium,2030,87.57
+Canada,Education,Small,2030,58.91
+Canada,Financial Services,Large,2030,96.97
+Canada,Financial Services,Medium,2030,96.94
+Canada,Financial Services,Small,2030,96.99
+Canada,Gaming,Large,2030,96.76
+Canada,Gaming,Medium,2030,96.95
+Canada,Gaming,Small,2030,96.03
+Canada,Government,Large,2030,93.51
+Canada,Government,Medium,2030,93.52
+Canada,Government,Small,2030,95.67
+Canada,Healthcare,Large,2030,97.02
+Canada,Healthcare,Medium,2030,91.65
+Canada,Healthcare,Small,2030,96.24
+Canada,Legal,Large,2030,96.26
+Canada,Legal,Medium,2030,85.79
+Canada,Legal,Small,2030,88.13
+Canada,Manufacturing,Large,2030,97.04
+Canada,Manufacturing,Medium,2030,90.89
+Canada,Manufacturing,Small,2030,89.4
+Canada,Media & Entertainment,Large,2030,96.83
+Canada,Media & Entertainment,Medium,2030,96.97
+Canada,Media & Entertainment,Small,2030,97.23
+Canada,Retail,Large,2030,97.04
+Canada,Retail,Medium,2030,96.27
+Canada,Retail,Small,2030,58.42
+Canada,Technology,Large,2030,93.3
+Canada,Technology,Medium,2030,93.5
+Canada,Technology,Small,2030,91.66
+China,Agriculture,Large,2030,97.52
+China,Agriculture,Medium,2030,52.48
+China,Agriculture,Small,2030,93.62
+China,Automotive,Large,2030,96.98
+China,Automotive,Medium,2030,97.3
+China,Automotive,Small,2030,93.54
+China,Education,Large,2030,90.4
+China,Education,Medium,2030,64.76
+China,Education,Small,2030,90.33
+China,Financial Services,Large,2030,96.89
+China,Financial Services,Medium,2030,96.94
+China,Financial Services,Small,2030,97.29
+China,Gaming,Large,2030,96.78
+China,Gaming,Medium,2030,93.36
+China,Gaming,Small,2030,71.23
+China,Government,Large,2030,73.71
+China,Government,Medium,2030,90.07
+China,Government,Small,2030,93.51
+China,Healthcare,Large,2030,97.02
+China,Healthcare,Medium,2030,92.92
+China,Healthcare,Small,2030,96.25
+China,Legal,Large,2030,91.57
+China,Legal,Medium,2030,96.29
+China,Legal,Small,2030,76.43
+China,Manufacturing,Large,2030,97.1
+China,Manufacturing,Medium,2030,96.33
+China,Manufacturing,Small,2030,97.26
+China,Media & Entertainment,Large,2030,97.04
+China,Media & Entertainment,Medium,2030,90.83
+China,Media & Entertainment,Small,2030,63.99
+China,Retail,Large,2030,92.98
+China,Retail,Medium,2030,93.58
+China,Retail,Small,2030,93.4
+China,Technology,Large,2030,97.02
+China,Technology,Medium,2030,97.03
+China,Technology,Small,2030,97.03
+Egypt,Agriculture,Large,2030,96.96
+Egypt,Agriculture,Medium,2030,97.66
+Egypt,Agriculture,Small,2030,93.48
+Egypt,Automotive,Large,2030,93.53
+Egypt,Automotive,Medium,2030,66.81
+Egypt,Automotive,Small,2030,95.96
+Egypt,Education,Large,2030,89.13
+Egypt,Education,Medium,2030,92.58
+Egypt,Education,Small,2030,35.76
+Egypt,Financial Services,Large,2030,89.09
+Egypt,Financial Services,Medium,2030,74.64
+Egypt,Financial Services,Small,2030,28.15
+Egypt,Gaming,Large,2030,90.66
+Egypt,Gaming,Medium,2030,91.29
+Egypt,Gaming,Small,2030,84.89
+Egypt,Government,Large,2030,40.85
+Egypt,Government,Medium,2030,42.06
+Egypt,Government,Small,2030,93.49
+Egypt,Healthcare,Large,2030,80.5
+Egypt,Healthcare,Medium,2030,93.35
+Egypt,Healthcare,Small,2030,76.36
+Egypt,Legal,Large,2030,90.74
+Egypt,Legal,Medium,2030,93.52
+Egypt,Legal,Small,2030,98.18
+Egypt,Manufacturing,Large,2030,96.17
+Egypt,Manufacturing,Medium,2030,87.2
+Egypt,Manufacturing,Small,2030,97.3
+Egypt,Media & Entertainment,Large,2030,96.11
+Egypt,Media & Entertainment,Medium,2030,96.71
+Egypt,Media & Entertainment,Small,2030,77.89
+Egypt,Retail,Large,2030,93.41
+Egypt,Retail,Medium,2030,76.35
+Egypt,Retail,Small,2030,36.26
+Egypt,Technology,Large,2030,93.62
+Egypt,Technology,Medium,2030,91.48
+Egypt,Technology,Small,2030,86.41
+France,Agriculture,Large,2030,94.51
+France,Agriculture,Medium,2030,94.01
+France,Agriculture,Small,2030,82.21
+France,Automotive,Large,2030,96.97
+France,Automotive,Medium,2030,90.84
+France,Automotive,Small,2030,96.83
+France,Education,Large,2030,93.0
+France,Education,Medium,2030,96.48
+France,Education,Small,2030,70.08
+France,Financial Services,Large,2030,96.79
+France,Financial Services,Medium,2030,93.5
+France,Financial Services,Small,2030,96.93
+France,Gaming,Large,2030,96.94
+France,Gaming,Medium,2030,96.82
+France,Gaming,Small,2030,78.18
+France,Government,Large,2030,90.85
+France,Government,Medium,2030,91.54
+France,Government,Small,2030,97.22
+France,Healthcare,Large,2030,96.97
+France,Healthcare,Medium,2030,91.56
+France,Healthcare,Small,2030,93.94
+France,Legal,Large,2030,90.97
+France,Legal,Medium,2030,55.65
+France,Legal,Small,2030,51.67
+France,Manufacturing,Large,2030,96.81
+France,Manufacturing,Medium,2030,96.26
+France,Manufacturing,Small,2030,97.36
+France,Media & Entertainment,Large,2030,96.88
+France,Media & Entertainment,Medium,2030,89.28
+France,Media & Entertainment,Small,2030,56.68
+France,Retail,Large,2030,90.75
+France,Retail,Medium,2030,94.04
+France,Retail,Small,2030,68.37
+France,Technology,Large,2030,96.96
+France,Technology,Medium,2030,93.64
+France,Technology,Small,2030,91.75
+Germany,Agriculture,Large,2030,90.95
+Germany,Agriculture,Medium,2030,93.75
+Germany,Agriculture,Small,2030,97.59
+Germany,Automotive,Large,2030,97.0
+Germany,Automotive,Medium,2030,93.55
+Germany,Automotive,Small,2030,81.49
+Germany,Education,Large,2030,88.28
+Germany,Education,Medium,2030,86.5
+Germany,Education,Small,2030,97.5
+Germany,Financial Services,Large,2030,97.07
+Germany,Financial Services,Medium,2030,90.88
+Germany,Financial Services,Small,2030,74.09
+Germany,Gaming,Large,2030,97.09
+Germany,Gaming,Medium,2030,93.27
+Germany,Gaming,Small,2030,91.57
+Germany,Government,Large,2030,91.28
+Germany,Government,Medium,2030,80.68
+Germany,Government,Small,2030,63.86
+Germany,Healthcare,Large,2030,97.0
+Germany,Healthcare,Medium,2030,93.28
+Germany,Healthcare,Small,2030,97.09
+Germany,Legal,Large,2030,90.85
+Germany,Legal,Medium,2030,93.62
+Germany,Legal,Small,2030,76.77
+Germany,Manufacturing,Large,2030,97.1
+Germany,Manufacturing,Medium,2030,91.71
+Germany,Manufacturing,Small,2030,93.62
+Germany,Media & Entertainment,Large,2030,96.8
+Germany,Media & Entertainment,Medium,2030,93.49
+Germany,Media & Entertainment,Small,2030,69.66
+Germany,Retail,Large,2030,93.37
+Germany,Retail,Medium,2030,93.06
+Germany,Retail,Small,2030,93.64
+Germany,Technology,Large,2030,97.08
+Germany,Technology,Medium,2030,96.91
+Germany,Technology,Small,2030,97.07
+India,Agriculture,Large,2030,89.44
+India,Agriculture,Medium,2030,52.86
+India,Agriculture,Small,2030,78.47
+India,Automotive,Large,2030,93.49
+India,Automotive,Medium,2030,90.7
+India,Automotive,Small,2030,82.89
+India,Education,Large,2030,84.97
+India,Education,Medium,2030,57.18
+India,Education,Small,2030,97.41
+India,Financial Services,Large,2030,96.99
+India,Financial Services,Medium,2030,97.24
+India,Financial Services,Small,2030,90.45
+India,Gaming,Large,2030,90.59
+India,Gaming,Medium,2030,96.1
+India,Gaming,Small,2030,96.81
+India,Government,Large,2030,90.75
+India,Government,Medium,2030,27.17
+India,Government,Small,2030,39.38
+India,Healthcare,Large,2030,97.04
+India,Healthcare,Medium,2030,97.09
+India,Healthcare,Small,2030,97.45
+India,Legal,Large,2030,96.3
+India,Legal,Medium,2030,96.99
+India,Legal,Small,2030,97.28
+India,Manufacturing,Large,2030,96.13
+India,Manufacturing,Medium,2030,93.7
+India,Manufacturing,Small,2030,49.15
+India,Media & Entertainment,Large,2030,90.58
+India,Media & Entertainment,Medium,2030,72.41
+India,Media & Entertainment,Small,2030,47.07
+India,Retail,Large,2030,96.09
+India,Retail,Medium,2030,93.42
+India,Retail,Small,2030,97.3
+India,Technology,Large,2030,96.99
+India,Technology,Medium,2030,96.15
+India,Technology,Small,2030,97.56
+Israel,Agriculture,Large,2030,96.32
+Israel,Agriculture,Medium,2030,91.07
+Israel,Agriculture,Small,2030,97.26
+Israel,Automotive,Large,2030,96.77
+Israel,Automotive,Medium,2030,97.05
+Israel,Automotive,Small,2030,90.78
+Israel,Education,Large,2030,90.76
+Israel,Education,Medium,2030,89.86
+Israel,Education,Small,2030,93.18
+Israel,Financial Services,Large,2030,96.85
+Israel,Financial Services,Medium,2030,96.97
+Israel,Financial Services,Small,2030,93.16
+Israel,Gaming,Large,2030,96.81
+Israel,Gaming,Medium,2030,96.12
+Israel,Gaming,Small,2030,90.73
+Israel,Government,Large,2030,90.86
+Israel,Government,Medium,2030,91.69
+Israel,Government,Small,2030,93.74
+Israel,Healthcare,Large,2030,93.43
+Israel,Healthcare,Medium,2030,96.97
+Israel,Healthcare,Small,2030,96.98
+Israel,Legal,Large,2030,90.93
+Israel,Legal,Medium,2030,96.31
+Israel,Legal,Small,2030,90.98
+Israel,Manufacturing,Large,2030,97.03
+Israel,Manufacturing,Medium,2030,96.97
+Israel,Manufacturing,Small,2030,97.38
+Israel,Media & Entertainment,Large,2030,96.97
+Israel,Media & Entertainment,Medium,2030,93.17
+Israel,Media & Entertainment,Small,2030,93.56
+Israel,Retail,Large,2030,96.85
+Israel,Retail,Medium,2030,90.81
+Israel,Retail,Small,2030,71.58
+Israel,Technology,Large,2030,96.96
+Israel,Technology,Medium,2030,96.96
+Israel,Technology,Small,2030,93.61
+Japan,Agriculture,Large,2030,90.85
+Japan,Agriculture,Medium,2030,97.29
+Japan,Agriculture,Small,2030,97.65
+Japan,Automotive,Large,2030,93.36
+Japan,Automotive,Medium,2030,90.92
+Japan,Automotive,Small,2030,71.39
+Japan,Education,Large,2030,96.4
+Japan,Education,Medium,2030,88.88
+Japan,Education,Small,2030,93.15
+Japan,Financial Services,Large,2030,96.73
+Japan,Financial Services,Medium,2030,93.34
+Japan,Financial Services,Small,2030,85.71
+Japan,Gaming,Large,2030,96.97
+Japan,Gaming,Medium,2030,90.78
+Japan,Gaming,Small,2030,96.58
+Japan,Government,Large,2030,91.0
+Japan,Government,Medium,2030,84.85
+Japan,Government,Small,2030,97.32
+Japan,Healthcare,Large,2030,97.07
+Japan,Healthcare,Medium,2030,96.95
+Japan,Healthcare,Small,2030,97.01
+Japan,Legal,Large,2030,81.54
+Japan,Legal,Medium,2030,97.16
+Japan,Legal,Small,2030,43.72
+Japan,Manufacturing,Large,2030,97.05
+Japan,Manufacturing,Medium,2030,89.32
+Japan,Manufacturing,Small,2030,96.93
+Japan,Media & Entertainment,Large,2030,97.02
+Japan,Media & Entertainment,Medium,2030,93.47
+Japan,Media & Entertainment,Small,2030,88.54
+Japan,Retail,Large,2030,96.64
+Japan,Retail,Medium,2030,97.03
+Japan,Retail,Small,2030,96.91
+Japan,Technology,Large,2030,97.0
+Japan,Technology,Medium,2030,93.28
+Japan,Technology,Small,2030,91.66
+Mexico,Agriculture,Large,2030,54.4
+Mexico,Agriculture,Medium,2030,9.78
+Mexico,Agriculture,Small,2030,97.42
+Mexico,Automotive,Large,2030,91.82
+Mexico,Automotive,Medium,2030,97.4
+Mexico,Automotive,Small,2030,77.05
+Mexico,Education,Large,2030,93.14
+Mexico,Education,Medium,2030,91.32
+Mexico,Education,Small,2030,54.7
+Mexico,Financial Services,Large,2030,93.41
+Mexico,Financial Services,Medium,2030,90.74
+Mexico,Financial Services,Small,2030,97.01
+Mexico,Gaming,Large,2030,93.47
+Mexico,Gaming,Medium,2030,97.06
+Mexico,Gaming,Small,2030,82.32
+Mexico,Government,Large,2030,97.13
+Mexico,Government,Medium,2030,90.99
+Mexico,Government,Small,2030,93.62
+Mexico,Healthcare,Large,2030,97.13
+Mexico,Healthcare,Medium,2030,47.14
+Mexico,Healthcare,Small,2030,63.41
+Mexico,Legal,Large,2030,91.05
+Mexico,Legal,Medium,2030,66.12
+Mexico,Legal,Small,2030,72.37
+Mexico,Manufacturing,Large,2030,97.03
+Mexico,Manufacturing,Medium,2030,92.83
+Mexico,Manufacturing,Small,2030,93.46
+Mexico,Media & Entertainment,Large,2030,96.37
+Mexico,Media & Entertainment,Medium,2030,96.99
+Mexico,Media & Entertainment,Small,2030,93.38
+Mexico,Retail,Large,2030,55.72
+Mexico,Retail,Medium,2030,97.02
+Mexico,Retail,Small,2030,35.12
+Mexico,Technology,Large,2030,90.99
+Mexico,Technology,Medium,2030,97.23
+Mexico,Technology,Small,2030,44.17
+Morocco,Agriculture,Large,2030,35.93
+Morocco,Agriculture,Medium,2030,29.37
+Morocco,Agriculture,Small,2030,53.61
+Morocco,Automotive,Large,2030,97.42
+Morocco,Automotive,Medium,2030,97.57
+Morocco,Automotive,Small,2030,39.97
+Morocco,Education,Large,2030,64.02
+Morocco,Education,Medium,2030,96.83
+Morocco,Education,Small,2030,68.03
+Morocco,Financial Services,Large,2030,87.74
+Morocco,Financial Services,Medium,2030,78.46
+Morocco,Financial Services,Small,2030,97.01
+Morocco,Gaming,Large,2030,97.25
+Morocco,Gaming,Medium,2030,93.42
+Morocco,Gaming,Small,2030,97.43
+Morocco,Government,Large,2030,95.14
+Morocco,Government,Medium,2030,80.63
+Morocco,Government,Small,2030,96.97
+Morocco,Healthcare,Large,2030,96.83
+Morocco,Healthcare,Medium,2030,96.95
+Morocco,Healthcare,Small,2030,82.12
+Morocco,Legal,Large,2030,94.47
+Morocco,Legal,Medium,2030,97.74
+Morocco,Legal,Small,2030,70.14
+Morocco,Manufacturing,Large,2030,94.0
+Morocco,Manufacturing,Medium,2030,82.08
+Morocco,Manufacturing,Small,2030,93.38
+Morocco,Media & Entertainment,Large,2030,97.42
+Morocco,Media & Entertainment,Medium,2030,97.79
+Morocco,Media & Entertainment,Small,2030,67.5
+Morocco,Retail,Large,2030,52.94
+Morocco,Retail,Medium,2030,56.66
+Morocco,Retail,Small,2030,96.98
+Morocco,Technology,Large,2030,93.65
+Morocco,Technology,Medium,2030,72.31
+Morocco,Technology,Small,2030,38.74
+Netherlands,Agriculture,Large,2030,60.16
+Netherlands,Agriculture,Medium,2030,46.69
+Netherlands,Agriculture,Small,2030,93.7
+Netherlands,Automotive,Large,2030,96.8
+Netherlands,Automotive,Medium,2030,90.77
+Netherlands,Automotive,Small,2030,93.46
+Netherlands,Education,Large,2030,96.39
+Netherlands,Education,Medium,2030,89.64
+Netherlands,Education,Small,2030,89.05
+Netherlands,Financial Services,Large,2030,96.94
+Netherlands,Financial Services,Medium,2030,96.85
+Netherlands,Financial Services,Small,2030,90.83
+Netherlands,Gaming,Large,2030,96.96
+Netherlands,Gaming,Medium,2030,90.67
+Netherlands,Gaming,Small,2030,96.25
+Netherlands,Government,Large,2030,91.62
+Netherlands,Government,Medium,2030,72.67
+Netherlands,Government,Small,2030,97.6
+Netherlands,Healthcare,Large,2030,96.93
+Netherlands,Healthcare,Medium,2030,95.87
+Netherlands,Healthcare,Small,2030,89.08
+Netherlands,Legal,Large,2030,90.76
+Netherlands,Legal,Medium,2030,96.28
+Netherlands,Legal,Small,2030,88.55
+Netherlands,Manufacturing,Large,2030,97.06
+Netherlands,Manufacturing,Medium,2030,90.87
+Netherlands,Manufacturing,Small,2030,91.73
+Netherlands,Media & Entertainment,Large,2030,96.97
+Netherlands,Media & Entertainment,Medium,2030,96.29
+Netherlands,Media & Entertainment,Small,2030,71.99
+Netherlands,Retail,Large,2030,96.97
+Netherlands,Retail,Medium,2030,97.16
+Netherlands,Retail,Small,2030,91.71
+Netherlands,Technology,Large,2030,96.85
+Netherlands,Technology,Medium,2030,96.99
+Netherlands,Technology,Small,2030,93.56
+Nigeria,Agriculture,Large,2030,97.54
+Nigeria,Agriculture,Medium,2030,97.72
+Nigeria,Agriculture,Small,2030,83.52
+Nigeria,Automotive,Large,2030,93.7
+Nigeria,Automotive,Medium,2030,93.47
+Nigeria,Automotive,Small,2030,93.43
+Nigeria,Education,Large,2030,96.45
+Nigeria,Education,Medium,2030,92.57
+Nigeria,Education,Small,2030,71.72
+Nigeria,Financial Services,Large,2030,93.44
+Nigeria,Financial Services,Medium,2030,16.34
+Nigeria,Financial Services,Small,2030,70.07
+Nigeria,Gaming,Large,2030,93.44
+Nigeria,Gaming,Medium,2030,93.37
+Nigeria,Gaming,Small,2030,49.86
+Nigeria,Government,Large,2030,97.05
+Nigeria,Government,Medium,2030,97.05
+Nigeria,Government,Small,2030,84.53
+Nigeria,Healthcare,Large,2030,96.98
+Nigeria,Healthcare,Medium,2030,97.3
+Nigeria,Healthcare,Small,2030,93.36
+Nigeria,Legal,Large,2030,93.52
+Nigeria,Legal,Medium,2030,94.94
+Nigeria,Legal,Small,2030,63.37
+Nigeria,Manufacturing,Large,2030,93.66
+Nigeria,Manufacturing,Medium,2030,97.29
+Nigeria,Manufacturing,Small,2030,97.51
+Nigeria,Media & Entertainment,Large,2030,90.69
+Nigeria,Media & Entertainment,Medium,2030,87.51
+Nigeria,Media & Entertainment,Small,2030,96.31
+Nigeria,Retail,Large,2030,73.64
+Nigeria,Retail,Medium,2030,28.79
+Nigeria,Retail,Small,2030,77.94
+Nigeria,Technology,Large,2030,97.36
+Nigeria,Technology,Medium,2030,93.65
+Nigeria,Technology,Small,2030,77.49
+Singapore,Agriculture,Large,2030,96.75
+Singapore,Agriculture,Medium,2030,76.44
+Singapore,Agriculture,Small,2030,97.63
+Singapore,Automotive,Large,2030,96.94
+Singapore,Automotive,Medium,2030,93.21
+Singapore,Automotive,Small,2030,73.89
+Singapore,Education,Large,2030,90.48
+Singapore,Education,Medium,2030,88.82
+Singapore,Education,Small,2030,96.43
+Singapore,Financial Services,Large,2030,96.94
+Singapore,Financial Services,Medium,2030,96.94
+Singapore,Financial Services,Small,2030,96.28
+Singapore,Gaming,Large,2030,96.77
+Singapore,Gaming,Medium,2030,97.09
+Singapore,Gaming,Small,2030,96.99
+Singapore,Government,Large,2030,90.76
+Singapore,Government,Medium,2030,90.79
+Singapore,Government,Small,2030,97.14
+Singapore,Healthcare,Large,2030,97.0
+Singapore,Healthcare,Medium,2030,90.71
+Singapore,Healthcare,Small,2030,96.96
+Singapore,Legal,Large,2030,90.87
+Singapore,Legal,Medium,2030,93.65
+Singapore,Legal,Small,2030,93.59
+Singapore,Manufacturing,Large,2030,96.85
+Singapore,Manufacturing,Medium,2030,90.83
+Singapore,Manufacturing,Small,2030,93.53
+Singapore,Media & Entertainment,Large,2030,96.86
+Singapore,Media & Entertainment,Medium,2030,90.66
+Singapore,Media & Entertainment,Small,2030,91.55
+Singapore,Retail,Large,2030,96.97
+Singapore,Retail,Medium,2030,90.81
+Singapore,Retail,Small,2030,87.68
+Singapore,Technology,Large,2030,97.03
+Singapore,Technology,Medium,2030,96.95
+Singapore,Technology,Small,2030,97.07
+South Africa,Agriculture,Large,2030,96.87
+South Africa,Agriculture,Medium,2030,84.34
+South Africa,Agriculture,Small,2030,80.57
+South Africa,Automotive,Large,2030,58.67
+South Africa,Automotive,Medium,2030,91.66
+South Africa,Automotive,Small,2030,93.43
+South Africa,Education,Large,2030,89.91
+South Africa,Education,Medium,2030,1.99
+South Africa,Education,Small,2030,93.51
+South Africa,Financial Services,Large,2030,90.49
+South Africa,Financial Services,Medium,2030,89.16
+South Africa,Financial Services,Small,2030,24.83
+South Africa,Gaming,Large,2030,93.08
+South Africa,Gaming,Medium,2030,90.52
+South Africa,Gaming,Small,2030,91.56
+South Africa,Government,Large,2030,66.14
+South Africa,Government,Medium,2030,86.06
+South Africa,Government,Small,2030,88.72
+South Africa,Healthcare,Large,2030,58.36
+South Africa,Healthcare,Medium,2030,96.79
+South Africa,Healthcare,Small,2030,97.09
+South Africa,Legal,Large,2030,96.08
+South Africa,Legal,Medium,2030,38.87
+South Africa,Legal,Small,2030,18.59
+South Africa,Manufacturing,Large,2030,91.54
+South Africa,Manufacturing,Medium,2030,96.09
+South Africa,Manufacturing,Small,2030,93.66
+South Africa,Media & Entertainment,Large,2030,91.47
+South Africa,Media & Entertainment,Medium,2030,97.18
+South Africa,Media & Entertainment,Small,2030,93.47
+South Africa,Retail,Large,2030,91.3
+South Africa,Retail,Medium,2030,96.87
+South Africa,Retail,Small,2030,93.44
+South Africa,Technology,Large,2030,90.73
+South Africa,Technology,Medium,2030,91.41
+South Africa,Technology,Small,2030,71.71
+South Korea,Agriculture,Large,2030,73.55
+South Korea,Agriculture,Medium,2030,88.04
+South Korea,Agriculture,Small,2030,96.89
+South Korea,Automotive,Large,2030,96.93
+South Korea,Automotive,Medium,2030,93.56
+South Korea,Automotive,Small,2030,71.69
+South Korea,Education,Large,2030,88.24
+South Korea,Education,Medium,2030,91.02
+South Korea,Education,Small,2030,66.88
+South Korea,Financial Services,Large,2030,96.95
+South Korea,Financial Services,Medium,2030,90.76
+South Korea,Financial Services,Small,2030,72.68
+South Korea,Gaming,Large,2030,96.97
+South Korea,Gaming,Medium,2030,96.93
+South Korea,Gaming,Small,2030,97.39
+South Korea,Government,Large,2030,89.99
+South Korea,Government,Medium,2030,93.61
+South Korea,Government,Small,2030,97.28
+South Korea,Healthcare,Large,2030,96.95
+South Korea,Healthcare,Medium,2030,96.94
+South Korea,Healthcare,Small,2030,96.94
+South Korea,Legal,Large,2030,90.9
+South Korea,Legal,Medium,2030,53.74
+South Korea,Legal,Small,2030,94.82
+South Korea,Manufacturing,Large,2030,96.94
+South Korea,Manufacturing,Medium,2030,91.64
+South Korea,Manufacturing,Small,2030,62.93
+South Korea,Media & Entertainment,Large,2030,96.97
+South Korea,Media & Entertainment,Medium,2030,93.56
+South Korea,Media & Entertainment,Small,2030,90.92
+South Korea,Retail,Large,2030,96.95
+South Korea,Retail,Medium,2030,93.53
+South Korea,Retail,Small,2030,75.69
+South Korea,Technology,Large,2030,96.99
+South Korea,Technology,Medium,2030,90.86
+South Korea,Technology,Small,2030,91.92
+Sweden,Agriculture,Large,2030,93.6
+Sweden,Agriculture,Medium,2030,71.79
+Sweden,Agriculture,Small,2030,32.42
+Sweden,Automotive,Large,2030,96.97
+Sweden,Automotive,Medium,2030,93.08
+Sweden,Automotive,Small,2030,91.49
+Sweden,Education,Large,2030,96.49
+Sweden,Education,Medium,2030,92.94
+Sweden,Education,Small,2030,69.78
+Sweden,Financial Services,Large,2030,97.01
+Sweden,Financial Services,Medium,2030,96.99
+Sweden,Financial Services,Small,2030,91.5
+Sweden,Gaming,Large,2030,96.81
+Sweden,Gaming,Medium,2030,96.76
+Sweden,Gaming,Small,2030,93.5
+Sweden,Government,Large,2030,90.97
+Sweden,Government,Medium,2030,97.71
+Sweden,Government,Small,2030,97.47
+Sweden,Healthcare,Large,2030,96.99
+Sweden,Healthcare,Medium,2030,96.98
+Sweden,Healthcare,Small,2030,91.47
+Sweden,Legal,Large,2030,93.22
+Sweden,Legal,Medium,2030,91.72
+Sweden,Legal,Small,2030,62.15
+Sweden,Manufacturing,Large,2030,97.04
+Sweden,Manufacturing,Medium,2030,90.86
+Sweden,Manufacturing,Small,2030,96.97
+Sweden,Media & Entertainment,Large,2030,96.99
+Sweden,Media & Entertainment,Medium,2030,96.31
+Sweden,Media & Entertainment,Small,2030,85.71
+Sweden,Retail,Large,2030,96.99
+Sweden,Retail,Medium,2030,91.52
+Sweden,Retail,Small,2030,91.68
+Sweden,Technology,Large,2030,96.87
+Sweden,Technology,Medium,2030,96.87
+Sweden,Technology,Small,2030,96.26
+United Kingdom,Agriculture,Large,2030,97.03
+United Kingdom,Agriculture,Medium,2030,97.39
+United Kingdom,Agriculture,Small,2030,97.36
+United Kingdom,Automotive,Large,2030,96.96
+United Kingdom,Automotive,Medium,2030,93.56
+United Kingdom,Automotive,Small,2030,93.57
+United Kingdom,Education,Large,2030,90.36
+United Kingdom,Education,Medium,2030,96.63
+United Kingdom,Education,Small,2030,90.45
+United Kingdom,Financial Services,Large,2030,97.07
+United Kingdom,Financial Services,Medium,2030,93.22
+United Kingdom,Financial Services,Small,2030,96.21
+United Kingdom,Gaming,Large,2030,96.94
+United Kingdom,Gaming,Medium,2030,97.0
+United Kingdom,Gaming,Small,2030,96.31
+United Kingdom,Government,Large,2030,90.86
+United Kingdom,Government,Medium,2030,96.97
+United Kingdom,Government,Small,2030,96.82
+United Kingdom,Healthcare,Large,2030,96.93
+United Kingdom,Healthcare,Medium,2030,90.72
+United Kingdom,Healthcare,Small,2030,96.96
+United Kingdom,Legal,Large,2030,88.86
+United Kingdom,Legal,Medium,2030,97.1
+United Kingdom,Legal,Small,2030,94.91
+United Kingdom,Manufacturing,Large,2030,96.82
+United Kingdom,Manufacturing,Medium,2030,97.01
+United Kingdom,Manufacturing,Small,2030,97.02
+United Kingdom,Media & Entertainment,Large,2030,96.97
+United Kingdom,Media & Entertainment,Medium,2030,90.87
+United Kingdom,Media & Entertainment,Small,2030,93.4
+United Kingdom,Retail,Large,2030,96.97
+United Kingdom,Retail,Medium,2030,90.93
+United Kingdom,Retail,Small,2030,96.88
+United Kingdom,Technology,Large,2030,97.16
+United Kingdom,Technology,Medium,2030,88.2
+United Kingdom,Technology,Small,2030,97.39
+United States,Agriculture,Large,2030,91.54
+United States,Agriculture,Medium,2030,93.7
+United States,Agriculture,Small,2030,81.31
+United States,Automotive,Large,2030,96.97
+United States,Automotive,Medium,2030,93.51
+United States,Automotive,Small,2030,90.85
+United States,Education,Large,2030,88.43
+United States,Education,Medium,2030,96.85
+United States,Education,Small,2030,96.44
+United States,Financial Services,Large,2030,96.92
+United States,Financial Services,Medium,2030,93.2
+United States,Financial Services,Small,2030,72.14
+United States,Gaming,Large,2030,96.92
+United States,Gaming,Medium,2030,93.29
+United States,Gaming,Small,2030,91.52
+United States,Government,Large,2030,90.77
+United States,Government,Medium,2030,62.41
+United States,Government,Small,2030,30.48
+United States,Healthcare,Large,2030,96.95
+United States,Healthcare,Medium,2030,90.72
+United States,Healthcare,Small,2030,88.66
+United States,Legal,Large,2030,93.31
+United States,Legal,Medium,2030,90.92
+United States,Legal,Small,2030,34.58
+United States,Manufacturing,Large,2030,96.97
+United States,Manufacturing,Medium,2030,93.07
+United States,Manufacturing,Small,2030,96.34
+United States,Media & Entertainment,Large,2030,97.01
+United States,Media & Entertainment,Medium,2030,96.96
+United States,Media & Entertainment,Small,2030,91.72
+United States,Retail,Large,2030,96.96
+United States,Retail,Medium,2030,90.83
+United States,Retail,Small,2030,93.51
+United States,Technology,Large,2030,93.49
+United States,Technology,Medium,2030,96.95
+United States,Technology,Small,2030,97.37
